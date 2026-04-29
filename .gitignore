@@ -4,3 +4,4 @@ node_modules/
 dist/
 dist.tar.gz
 ec2-setup-docs.sh
+ssl/
