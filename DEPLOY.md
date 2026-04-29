@@ -77,12 +77,12 @@ Guarde esse IP — você vai usá-lo no Cloudflare e no GitHub Secrets.
 3. Vá em **DNS → Registros**
 4. Adicione o registro:
 
-| Tipo | Nome | Conteúdo | Proxy |
-|---|---|---|---|
-| `A` | `docs` | `<IP_DA_EC2>` | ☁️ Ativo (laranja) |
+| Tipo | Nome   | Conteúdo      | Proxy              |
+| ---- | ------ | ------------- | ------------------ |
+| `A`  | `docs` | `<IP_DA_EC2>` | ☁️ Ativo (laranja) |
 
 5. Vá em **SSL/TLS → Visão geral**
-6. Defina o modo como **Full** *(não "Full (strict)" ainda — a EC2 não tem certificado local)*
+6. Defina o modo como **Full** _(não "Full (strict)" ainda — a EC2 não tem certificado local)_
 
 > **Por que proxy ativo?**  
 > Com o proxy do Cloudflare ativado, o HTTPS é gerenciado pelo Cloudflare automaticamente. A EC2 recebe tráfego na porta 80 vindo dos IPs do Cloudflare, e o usuário final acessa via HTTPS sem precisar do Certbot na EC2.
@@ -90,6 +90,7 @@ Guarde esse IP — você vai usá-lo no Cloudflare e no GitHub Secrets.
 ### 2.1 Regra de cache (opcional, recomendado)
 
 Em **Rules → Cache Rules**, crie uma regra:
+
 - **Condição:** `docs.petmob.com.br` e caminho `/_vitepress/assets/*`
 - **Ação:** Cache Level = Cache Everything, Edge TTL = 1 mês
 
@@ -103,16 +104,18 @@ No repositório `Pet-mob/PetShop.Docs`:
 2. Clique em **New repository secret**
 3. Adicione os dois secrets abaixo:
 
-| Secret | Valor |
-|---|---|
-| `EC2_HOST` | IP público da instância EC2 |
+| Secret        | Valor                                               |
+| ------------- | --------------------------------------------------- |
+| `EC2_HOST`    | IP público da instância EC2                         |
 | `EC2_SSH_KEY` | Conteúdo completo do arquivo `.pem` (chave privada) |
 
 > **Como copiar a chave SSH:**
+>
 > ```bash
 > # No Windows PowerShell:
 > Get-Content "C:\caminho\para\sua-chave.pem" | Set-Clipboard
 > ```
+>
 > Cole o conteúdo completo (incluindo `-----BEGIN RSA PRIVATE KEY-----` e `-----END RSA PRIVATE KEY-----`) no campo do secret.
 
 ---
@@ -176,29 +179,33 @@ Para proteção futura, adicione backup automático no workflow (ver seção Mel
 
 ## Arquivos deste repositório relacionados ao deploy
 
-| Arquivo | Finalidade |
-|---|---|
-| `.github/workflows/deploy.yml` | Pipeline CI/CD do GitHub Actions |
-| `nginx.conf` | Configuração de referência do Nginx |
-| `ec2-setup-docs.sh` | Script de setup inicial da EC2 |
-| `DEPLOY.md` | Este guia |
+| Arquivo                        | Finalidade                          |
+| ------------------------------ | ----------------------------------- |
+| `.github/workflows/deploy.yml` | Pipeline CI/CD do GitHub Actions    |
+| `nginx.conf`                   | Configuração de referência do Nginx |
+| `ec2-setup-docs.sh`            | Script de setup inicial da EC2      |
+| `DEPLOY.md`                    | Este guia                           |
 
 ---
 
 ## Solução de problemas
 
 **Deploy rodou mas o site não atualizou**
+
 - Verifique se o Cloudflare está com cache antigo: `Caching → Purge Everything`
 
 **Erro: Permission denied (publickey)**
+
 - Confirme que o conteúdo do `EC2_SSH_KEY` está completo, incluindo as linhas `-----BEGIN/END-----`
 - Verifique se o usuário é `ubuntu` (não `ec2-user`)
 
 **Nginx retorna 403 ou 404**
+
 - Conecte na EC2 e verifique: `ls -la /var/www/petshop-docs/`
 - Confirme que o index.html existe no diretório
 
 **Site abre em HTTP e não redireciona para HTTPS**
+
 - No Cloudflare: **SSL/TLS → Edge Certificates → Always Use HTTPS** → Ativar
 
 ---
@@ -213,12 +220,12 @@ Ver seção [Automatizando múltiplos projetos](#automatizando-múltiplos-projet
 
 Para novos projetos de documentação ou frontend estático na PetMob, o padrão é sempre o mesmo. O que muda entre projetos:
 
-| Variável | PetShop.Docs | Próximo projeto |
-|---|---|---|
-| Subdomínio | `docs.petmob.com.br` | `outro.petmob.com.br` |
-| Diretório EC2 | `/var/www/petshop-docs` | `/var/www/outro` |
-| Build output | `.vitepress/dist` | `dist/` |
-| Comando de build | `npm run docs:build` | `npm run build` |
+| Variável         | PetShop.Docs            | Próximo projeto       |
+| ---------------- | ----------------------- | --------------------- |
+| Subdomínio       | `docs.petmob.com.br`    | `outro.petmob.com.br` |
+| Diretório EC2    | `/var/www/petshop-docs` | `/var/www/outro`      |
+| Build output     | `.vitepress/dist`       | `dist/`               |
+| Comando de build | `npm run docs:build`    | `npm run build`       |
 
 ### Reuso com GitHub Actions Reusable Workflows
 
@@ -251,8 +258,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
       - run: npm ci
       - run: ${{ inputs.build_command }}
       - run: tar -czf dist.tar.gz -C ${{ inputs.dist_folder }} .
@@ -261,8 +268,8 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ubuntu
           key: ${{ secrets.EC2_SSH_KEY }}
-          source: 'dist.tar.gz'
-          target: '/tmp/'
+          source: "dist.tar.gz"
+          target: "/tmp/"
       - uses: appleboy/ssh-action@v1.0.0
         with:
           host: ${{ secrets.EC2_HOST }}

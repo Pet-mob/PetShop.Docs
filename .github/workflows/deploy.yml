@@ -16,8 +16,8 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
 
       - name: Instalar dependências
         run: npm ci
@@ -34,8 +34,8 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ubuntu
           key: ${{ secrets.EC2_SSH_KEY }}
-          source: 'dist.tar.gz'
-          target: '/tmp/'
+          source: "dist.tar.gz"
+          target: "/tmp/"
 
       - name: Extrair e publicar na EC2
         uses: appleboy/ssh-action@v1.0.0

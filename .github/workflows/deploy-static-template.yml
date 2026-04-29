@@ -7,28 +7,28 @@ on:
   workflow_call:
     inputs:
       build_command:
-        description: 'Comando de build (ex: npm run docs:build)'
+        description: "Comando de build (ex: npm run docs:build)"
         required: true
         type: string
       dist_folder:
-        description: 'Pasta gerada pelo build (ex: .vitepress/dist ou dist)'
+        description: "Pasta gerada pelo build (ex: .vitepress/dist ou dist)"
         required: true
         type: string
       webroot:
-        description: 'Diretório de destino na EC2 (ex: /var/www/petshop-docs)'
+        description: "Diretório de destino na EC2 (ex: /var/www/petshop-docs)"
         required: true
         type: string
       node_version:
-        description: 'Versão do Node.js'
+        description: "Versão do Node.js"
         required: false
         type: string
-        default: '20'
+        default: "20"
     secrets:
       EC2_HOST:
-        description: 'IP público da instância EC2'
+        description: "IP público da instância EC2"
         required: true
       EC2_SSH_KEY:
-        description: 'Chave SSH privada para autenticação na EC2'
+        description: "Chave SSH privada para autenticação na EC2"
         required: true
 
 jobs:
@@ -44,7 +44,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ inputs.node_version }}
-          cache: 'npm'
+          cache: "npm"
 
       - name: Instalar dependências
         run: npm ci
@@ -61,8 +61,8 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ubuntu
           key: ${{ secrets.EC2_SSH_KEY }}
-          source: 'dist.tar.gz'
-          target: '/tmp/'
+          source: "dist.tar.gz"
+          target: "/tmp/"
 
       - name: Publicar na EC2
         uses: appleboy/ssh-action@v1.0.0
