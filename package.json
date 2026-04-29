@@ -1,0 +1,13 @@
+{
+  "name": "petshop-docs",
+  "version": "1.0.0",
+  "description": "Documentação oficial da plataforma Pet.ON",
+  "scripts": {
+    "docs:dev": "vitepress dev --port 5174",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  }
+}
