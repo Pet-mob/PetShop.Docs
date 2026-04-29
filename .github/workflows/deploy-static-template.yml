@@ -1,0 +1,78 @@
+name: Deploy Estático — PetMob
+
+# Workflow reutilizável para todos os projetos frontend/docs da PetMob.
+# Uso: chame este workflow em qualquer repositório via `uses: Pet-mob/.github/.github/workflows/deploy-static.yml@main`
+
+on:
+  workflow_call:
+    inputs:
+      build_command:
+        description: 'Comando de build (ex: npm run docs:build)'
+        required: true
+        type: string
+      dist_folder:
+        description: 'Pasta gerada pelo build (ex: .vitepress/dist ou dist)'
+        required: true
+        type: string
+      webroot:
+        description: 'Diretório de destino na EC2 (ex: /var/www/petshop-docs)'
+        required: true
+        type: string
+      node_version:
+        description: 'Versão do Node.js'
+        required: false
+        type: string
+        default: '20'
+    secrets:
+      EC2_HOST:
+        description: 'IP público da instância EC2'
+        required: true
+      EC2_SSH_KEY:
+        description: 'Chave SSH privada para autenticação na EC2'
+        required: true
+
+jobs:
+  deploy:
+    name: Build e Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js ${{ inputs.node_version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node_version }}
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Build de produção
+        run: ${{ inputs.build_command }}
+
+      - name: Empacotar dist
+        run: tar -czf dist.tar.gz -C ${{ inputs.dist_folder }} .
+
+      - name: Enviar pacote para EC2
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ubuntu
+          key: ${{ secrets.EC2_SSH_KEY }}
+          source: 'dist.tar.gz'
+          target: '/tmp/'
+
+      - name: Publicar na EC2
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ubuntu
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            rm -rf ${{ inputs.webroot }}/*
+            tar -xzf /tmp/dist.tar.gz -C ${{ inputs.webroot }}/
+            rm -f /tmp/dist.tar.gz
+            sudo nginx -t && sudo systemctl reload nginx
+            echo "✅ Deploy concluído: ${{ inputs.webroot }}"
