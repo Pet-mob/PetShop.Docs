@@ -42,6 +42,7 @@ Se o código estiver correto, você avança para a próxima etapa automaticament
 3. Clique em **"Salvar nova senha"**
 
 **Requisitos da senha:**
+
 - Mínimo de 8 caracteres
 - Pelo menos 1 letra maiúscula
 - Pelo menos 1 número
@@ -61,6 +62,7 @@ Se o código estiver correto, você avança para a próxima etapa automaticament
 ## Perguntas frequentes
 
 **Não recebi o e-mail. O que fazer?**
+
 1. Verifique a caixa de spam / lixo eletrônico
 2. Aguarde até 5 minutos
 3. Se não chegou, entre em contato pelo suporte: **Configurações → Fale Conosco**

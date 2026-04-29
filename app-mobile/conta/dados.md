@@ -10,15 +10,15 @@ Toque em **Perfil → Dados da Conta**
 
 ## Informações disponíveis
 
-| Campo | Pode editar? | Descrição |
-|---|---|---|
-| **Nome completo** | ✅ Sim | Seu nome exibido para os petshops |
-| **Foto de perfil** | ✅ Sim | Foto que aparece nas suas avaliações |
-| **E-mail** | ✅ Sim | Usado para recuperação de conta |
-| **Número de celular** | ✅ Sim | Requer verificação por SMS |
-| **Endereço** | ✅ Sim | Facilita a busca de petshops próximos |
-| **Data de nascimento** | ✅ Sim | |
-| **Senha** | ✅ Sim | Alterar senha |
+| Campo                  | Pode editar? | Descrição                             |
+| ---------------------- | ------------ | ------------------------------------- |
+| **Nome completo**      | ✅ Sim       | Seu nome exibido para os petshops     |
+| **Foto de perfil**     | ✅ Sim       | Foto que aparece nas suas avaliações  |
+| **E-mail**             | ✅ Sim       | Usado para recuperação de conta       |
+| **Número de celular**  | ✅ Sim       | Requer verificação por SMS            |
+| **Endereço**           | ✅ Sim       | Facilita a busca de petshops próximos |
+| **Data de nascimento** | ✅ Sim       |                                       |
+| **Senha**              | ✅ Sim       | Alterar senha                         |
 
 ---
 
@@ -46,9 +46,9 @@ Para campos sensíveis como número de celular, uma verificação adicional é n
 
 Na seção **"Preferências"**, você pode alterar:
 
-| Configuração | Opções |
-|---|---|
-| **Tema** | Claro 🌞 / Escuro 🌙 / Automático (segue o sistema) |
+| Configuração | Opções                                              |
+| ------------ | --------------------------------------------------- |
+| **Tema**     | Claro 🌞 / Escuro 🌙 / Automático (segue o sistema) |
 
 ---
 
@@ -63,6 +63,7 @@ Para excluir sua conta permanentemente:
 5. Confirme novamente
 
 ::: warning O que é removido ao excluir a conta
+
 - Seus dados pessoais
 - Seus pets cadastrados
 - Carteiras de vacinação
@@ -78,10 +79,12 @@ Para solicitar exclusão via e-mail em cumprimento à LGPD, envie para: **privac
 ## Privacidade e dados
 
 Para acessar a política de privacidade:
+
 1. Toque em **Perfil → Privacidade e Termos**
 2. Leia os documentos completos
 
 Para solicitar exportação dos seus dados (LGPD):
+
 1. Toque em **"Exportar meus dados"**
 2. Informe seu e-mail
 3. Você recebe um arquivo com todos os seus dados em até 48 horas

@@ -31,12 +31,13 @@ Usa os pontos para pagar (parcial ou totalmente)
 A cada serviço realizado, você ganha pontos com base no valor pago:
 
 > **Exemplo:** Cada R$ 1,00 gasto = 1 ponto
-> 
+>
 > Serviço de R$ 80,00 → ganha **80 pontos**
 
 ### Por indicação
 
 Indique o app para amigos e ganhe pontos bônus:
+
 1. Acesse **"Indicar amigos"** no menu de pontos
 2. Compartilhe seu código ou link de indicação
 3. Quando o amigo fizer o primeiro agendamento, **ambos ganham pontos bônus!**
@@ -60,10 +61,10 @@ Na hora de confirmar um agendamento, você pode usar seus pontos para obter desc
 
 A tela de pontos exibe:
 
-| Informação | Descrição |
-|---|---|
-| **Saldo total** | Total de pontos disponíveis para uso |
-| **Pontos a vencer** | Pontos que vencerão nos próximos 30 dias |
+| Informação          | Descrição                                   |
+| ------------------- | ------------------------------------------- |
+| **Saldo total**     | Total de pontos disponíveis para uso        |
+| **Pontos a vencer** | Pontos que vencerão nos próximos 30 dias    |
 | **Total acumulado** | Todo histórico de pontos (inclui já usados) |
 
 ### Saldo por petshop
@@ -76,12 +77,12 @@ Os pontos são contados separadamente por petshop. Você vê o saldo em cada est
 
 A tela exibe o histórico completo de movimentações:
 
-| Tipo | Ícone | Exemplo |
-|---|---|---|
-| **Crédito** | ➕ | +80 pontos — Banho e Tosa em PetShop do João |
-| **Débito** | ➖ | -100 pontos — Desconto de R$10 no PetShop do João |
-| **Bônus** | ⭐ | +50 pontos — Bônus de indicação |
-| **Vencimento** | ⏰ | -200 pontos vencidos |
+| Tipo           | Ícone | Exemplo                                           |
+| -------------- | ----- | ------------------------------------------------- |
+| **Crédito**    | ➕    | +80 pontos — Banho e Tosa em PetShop do João      |
+| **Débito**     | ➖    | -100 pontos — Desconto de R$10 no PetShop do João |
+| **Bônus**      | ⭐    | +50 pontos — Bônus de indicação                   |
+| **Vencimento** | ⏰    | -200 pontos vencidos                              |
 
 ---
 
@@ -100,7 +101,7 @@ As regras podem variar por petshop. Ao acessar os pontos de um petshop específi
 
 ✅ **Crédito automático** — Os pontos são creditados automaticamente quando o petshop marca o atendimento como "Concluído".
 
-✅ **Notificação de pontos** — Você recebe uma notificação quando ganha novos pontos: *"🎁 Você ganhou 80 pontos no PetShop do João!"*
+✅ **Notificação de pontos** — Você recebe uma notificação quando ganha novos pontos: _"🎁 Você ganhou 80 pontos no PetShop do João!"_
 
 ✅ **Alerta de vencimento** — 30 dias antes de pontos vencerem, você recebe um aviso para não perdê-los.
 

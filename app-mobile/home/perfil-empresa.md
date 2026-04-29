@@ -23,12 +23,12 @@ Toque em qualquer petshop na busca ou na Home para abrir o perfil.
 
 Lista todos os serviços disponíveis com:
 
-| Informação | Descrição |
-|---|---|
-| **Nome do serviço** | Ex: Banho Simples |
-| **Duração estimada** | Ex: 1h30 |
-| **Preço** | Por porte do seu pet (P/M/G) |
-| **Descrição** | O que está incluso no serviço |
+| Informação           | Descrição                     |
+| -------------------- | ----------------------------- |
+| **Nome do serviço**  | Ex: Banho Simples             |
+| **Duração estimada** | Ex: 1h30                      |
+| **Preço**            | Por porte do seu pet (P/M/G)  |
+| **Descrição**        | O que está incluso no serviço |
 
 Toque em um serviço para ver os detalhes completos e agendar diretamente.
 
@@ -39,6 +39,7 @@ Galeria de fotos do estabelecimento — espaço, equipamentos, trabalhos realiza
 ### Aba: Avaliações
 
 Todas as avaliações dos clientes, com:
+
 - Nota em estrelas
 - Nome do tutor
 - Comentário
@@ -67,11 +68,11 @@ Use o filtro de estrelas para ver avaliações específicas.
 
 Botões de contato rápido no perfil:
 
-| Botão | Ação |
-|---|---|
-| 📞 **Ligar** | Abre o discador com o número do petshop |
-| 💬 **WhatsApp** | Abre conversa no WhatsApp com o número do petshop |
-| 🗺️ **Como chegar** | Abre o Google Maps com a rota até o petshop |
+| Botão              | Ação                                              |
+| ------------------ | ------------------------------------------------- |
+| 📞 **Ligar**       | Abre o discador com o número do petshop           |
+| 💬 **WhatsApp**    | Abre conversa no WhatsApp com o número do petshop |
+| 🗺️ **Como chegar** | Abre o Google Maps com a rota até o petshop       |
 
 ---
 

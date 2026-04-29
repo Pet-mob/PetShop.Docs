@@ -38,6 +38,7 @@ Tudo isso **sem precisar criar conta** ou baixar nada.
 ## QR Code
 
 Além do link, você pode baixar um **QR Code** para:
+
 - Impressão no balcão do petshop
 - Cartão de visitas digital
 - Banners e materiais gráficos
@@ -54,6 +55,7 @@ Você pode personalizar o "slug" (parte final da URL) para ficar mais fácil de 
 - Personalizado: `https://petshop.petmob.com.br/portal/meupetshop`
 
 Para personalizar:
+
 1. No campo **"Endereço personalizado"**, digite o nome desejado (sem espaços)
 2. Use apenas letras minúsculas, números e hífens
 3. Clique em **"Verificar disponibilidade"**
@@ -69,15 +71,15 @@ Ao alterar o link personalizado, o link antigo para de funcionar. Se você já d
 
 A tela oferece botões de compartilhamento direto para os canais mais usados:
 
-| Canal | O que acontece |
-|---|---|
-| **WhatsApp** | Abre o WhatsApp Web com a mensagem pronta para enviar |
-| **Instagram** | Copia o link para você colar na bio |
-| **E-mail** | Abre seu cliente de e-mail com o link no corpo |
+| Canal         | O que acontece                                        |
+| ------------- | ----------------------------------------------------- |
+| **WhatsApp**  | Abre o WhatsApp Web com a mensagem pronta para enviar |
+| **Instagram** | Copia o link para você colar na bio                   |
+| **E-mail**    | Abre seu cliente de e-mail com o link no corpo        |
 
 ### Mensagem sugerida para WhatsApp
 
-> *"Olá! Agora você pode agendar serviços para o seu pet diretamente pelo celular, sem precisar ligar ou ir até nossa loja. Acesse o link e escolha o melhor horário: [SEU LINK]* 🐾"
+> _"Olá! Agora você pode agendar serviços para o seu pet diretamente pelo celular, sem precisar ligar ou ir até nossa loja. Acesse o link e escolha o melhor horário: [SEU LINK]_ 🐾"
 
 ---
 

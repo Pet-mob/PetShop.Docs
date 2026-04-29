@@ -5,6 +5,7 @@ Agendar pelo app PetMob é rápido, fácil e você escolhe exatamente o que quer
 ## Como iniciar um agendamento
 
 Você pode iniciar de três formas:
+
 - Toque em **"Agendar"** no perfil do petshop
 - Toque em **"+ Novo agendamento"** na aba Agendamentos
 - Toque em **"Agendar"** na sugestão da Home
@@ -14,6 +15,7 @@ Você pode iniciar de três formas:
 ## Etapa 1: Selecionar o pet
 
 Selecione qual pet irá ao atendimento. Se você tiver mais de um pet:
+
 - Toque no pet desejado
 - Para levar mais de um pet, selecione todos (o agendamento será para o mesmo horário)
 
@@ -43,6 +45,7 @@ O calendário exibe apenas os dias disponíveis (dias fechados e sem horários f
 
 **Opção de agendamento recorrente:**
 Se você quer marcar um serviço que se repete, ative **"Agendar periodicamente"**:
+
 - Selecione a frequência: semanal, quinzenal, mensal
 - O sistema cria todos os agendamentos futuros automaticamente
 
@@ -60,18 +63,19 @@ Toque no horário desejado para selecioná-lo.
 
 A tela de confirmação exibe o resumo completo:
 
-| Item | Detalhe |
-|---|---|
-| **Petshop** | Nome e endereço |
-| **Pet** | Nome e porte |
-| **Serviço(s)** | Lista de serviços selecionados |
-| **Data e horário** | Data e hora escolhidos |
-| **Duração estimada** | Tempo total do atendimento |
-| **Valor total** | Soma de todos os serviços |
+| Item                 | Detalhe                        |
+| -------------------- | ------------------------------ |
+| **Petshop**          | Nome e endereço                |
+| **Pet**              | Nome e porte                   |
+| **Serviço(s)**       | Lista de serviços selecionados |
+| **Data e horário**   | Data e hora escolhidos         |
+| **Duração estimada** | Tempo total do atendimento     |
+| **Valor total**      | Soma de todos os serviços      |
 
 ### Cupom de desconto
 
 Se você tem um cupom:
+
 1. Toque em **"Tenho um cupom"**
 2. Digite o código
 3. Toque em **"Aplicar"**
@@ -80,6 +84,7 @@ Se você tem um cupom:
 ### Pontos de fidelidade
 
 Se você tem pontos acumulados neste petshop:
+
 1. Ative **"Usar meus pontos"**
 2. Escolha quantos pontos usar
 3. O desconto correspondente é aplicado

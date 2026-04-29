@@ -16,9 +16,9 @@ Menu lateral → **Gestão → Relatórios Avançados**
 
 No topo da tela, selecione o período:
 
-| Opção | Período |
-|---|---|
-| **7 dias** | Últimos 7 dias |
+| Opção       | Período         |
+| ----------- | --------------- |
+| **7 dias**  | Últimos 7 dias  |
 | **30 dias** | Últimos 30 dias |
 | **90 dias** | Últimos 3 meses |
 
@@ -28,13 +28,13 @@ Os dados são atualizados automaticamente ao trocar o período.
 
 ## KPIs exibidos
 
-| Indicador | O que mede |
-|---|---|
-| **Visualizações** | Quantas vezes seu perfil foi visualizado no app |
-| **Cliques** | Cliques no seu perfil a partir dos resultados de busca |
-| **Agendamentos Iniciados** | Clientes que começaram o processo de agendamento |
-| **Agendamentos Concluídos** | Agendamentos efetivamente confirmados |
-| **Taxa de Conversão** | % de visualizações que resultaram em agendamento concluído |
+| Indicador                   | O que mede                                                 |
+| --------------------------- | ---------------------------------------------------------- |
+| **Visualizações**           | Quantas vezes seu perfil foi visualizado no app            |
+| **Cliques**                 | Cliques no seu perfil a partir dos resultados de busca     |
+| **Agendamentos Iniciados**  | Clientes que começaram o processo de agendamento           |
+| **Agendamentos Concluídos** | Agendamentos efetivamente confirmados                      |
+| **Taxa de Conversão**       | % de visualizações que resultaram em agendamento concluído |
 
 ::: tip Interpretando a Taxa de Conversão
 Uma taxa acima de **10%** é considerada boa para petshops no marketplace. Se a taxa estiver baixa, avalie: fotos do perfil, descrição, avaliações e preço dos serviços.
@@ -46,13 +46,13 @@ Uma taxa acima de **10%** é considerada boa para petshops no marketplace. Se a 
 
 Tabela com o detalhamento por dia do período selecionado:
 
-| Coluna | Descrição |
-|---|---|
-| **Data** | Dia da semana + data |
-| **Visualizações** | Total de views no dia |
-| **Cliques** | Total de cliques no dia |
+| Coluna                     | Descrição                       |
+| -------------------------- | ------------------------------- |
+| **Data**                   | Dia da semana + data            |
+| **Visualizações**          | Total de views no dia           |
+| **Cliques**                | Total de cliques no dia         |
 | **Agendamentos Iniciados** | Fluxos de agendamento iniciados |
-| **Concluídos** | Agendamentos confirmados |
+| **Concluídos**             | Agendamentos confirmados        |
 
 Use essa tabela para identificar **quais dias da semana** têm mais movimento e ajustar horários e promoções.
 
@@ -62,13 +62,13 @@ Use essa tabela para identificar **quais dias da semana** têm mais movimento e 
 
 Gráfico de barras mostrando de onde vieram os agendamentos:
 
-| Origem | Descrição |
-|---|---|
-| **Busca orgânica** | Cliente encontrou o petshop pesquisando no app |
-| **Link direto** | Cliente acessou pelo link de agendamento compartilhado |
-| **Portal web** | Agendamento feito pelo portal sem o app |
-| **Boost** | Agendamento originado de um boost de visibilidade ativo |
-| **Indicação** | Cliente veio por indicação de outro tutor no app |
+| Origem             | Descrição                                               |
+| ------------------ | ------------------------------------------------------- |
+| **Busca orgânica** | Cliente encontrou o petshop pesquisando no app          |
+| **Link direto**    | Cliente acessou pelo link de agendamento compartilhado  |
+| **Portal web**     | Agendamento feito pelo portal sem o app                 |
+| **Boost**          | Agendamento originado de um boost de visibilidade ativo |
+| **Indicação**      | Cliente veio por indicação de outro tutor no app        |
 
 ---
 

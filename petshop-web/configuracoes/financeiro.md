@@ -12,30 +12,31 @@ Menu lateral → **Configurações → Financeiro**
 
 A tabela de faturas exibe todas as cobranças realizadas:
 
-| Coluna | Descrição |
-|---|---|
-| **Competência** | Mês/ano a que a fatura se refere |
-| **Vencimento** | Data de vencimento da cobrança |
-| **Valor** | Valor cobrado |
-| **Status** | Pago / Pendente / Atrasado / Cancelado |
-| **Ações** | Baixar PDF / Emitir NF |
+| Coluna          | Descrição                              |
+| --------------- | -------------------------------------- |
+| **Competência** | Mês/ano a que a fatura se refere       |
+| **Vencimento**  | Data de vencimento da cobrança         |
+| **Valor**       | Valor cobrado                          |
+| **Status**      | Pago / Pendente / Atrasado / Cancelado |
+| **Ações**       | Baixar PDF / Emitir NF                 |
 
 ---
 
 ## Status das faturas
 
-| Status | Cor | Significado |
-|---|---|---|
-| **Pago** | 🟢 Verde | Pagamento confirmado |
-| **Pendente** | 🟡 Amarelo | Ainda não venceu |
-| **Atrasado** | 🔴 Vermelho | Passou da data sem pagamento |
-| **Cancelado** | ⚫ Cinza | Fatura cancelada (ex: após downgrade) |
+| Status        | Cor         | Significado                           |
+| ------------- | ----------- | ------------------------------------- |
+| **Pago**      | 🟢 Verde    | Pagamento confirmado                  |
+| **Pendente**  | 🟡 Amarelo  | Ainda não venceu                      |
+| **Atrasado**  | 🔴 Vermelho | Passou da data sem pagamento          |
+| **Cancelado** | ⚫ Cinza    | Fatura cancelada (ex: após downgrade) |
 
 ---
 
 ## Baixando faturas
 
 Para cada fatura paga, você pode baixar o comprovante:
+
 1. Localize a fatura na lista
 2. Clique em **"Baixar PDF"**
 3. O documento é baixado automaticamente
@@ -47,6 +48,7 @@ Para cada fatura paga, você pode baixar o comprovante:
 A seção de método de pagamento exibe o cartão atualmente cadastrado (últimos 4 dígitos).
 
 Para **alterar o cartão**:
+
 1. Clique em **"Alterar cartão"**
 2. Preencha os dados do novo cartão
 3. Clique em **"Salvar"**

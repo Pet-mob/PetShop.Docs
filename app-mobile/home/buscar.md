@@ -17,6 +17,7 @@ Digite o nome do petshop no campo de busca no topo da tela. Os resultados aparec
 ### Busca por localização
 
 Por padrão, a busca usa sua localização atual. Para buscar em outro endereço:
+
 1. Toque no campo de localização
 2. Digite o endereço desejado
 3. Selecione o endereço na lista de sugestões
@@ -27,14 +28,14 @@ Por padrão, a busca usa sua localização atual. Para buscar em outro endereço
 
 Use os filtros para refinar os resultados:
 
-| Filtro | Opções |
-|---|---|
-| **Serviço** | Banho, Tosa, Banho e Tosa, Veterinário, etc. |
-| **Distância** | Até 1km, 3km, 5km, 10km |
-| **Avaliação** | 3+ estrelas, 4+ estrelas, 5 estrelas |
-| **Preço** | Faixa de preço (R$) |
-| **Disponibilidade** | Aberto agora, Hoje, Esta semana |
-| **Porte do pet** | Pequeno, Médio, Grande |
+| Filtro              | Opções                                       |
+| ------------------- | -------------------------------------------- |
+| **Serviço**         | Banho, Tosa, Banho e Tosa, Veterinário, etc. |
+| **Distância**       | Até 1km, 3km, 5km, 10km                      |
+| **Avaliação**       | 3+ estrelas, 4+ estrelas, 5 estrelas         |
+| **Preço**           | Faixa de preço (R$)                          |
+| **Disponibilidade** | Aberto agora, Hoje, Esta semana              |
+| **Porte do pet**    | Pequeno, Médio, Grande                       |
 
 Para aplicar: toque em **"Filtros"** → selecione as opções → toque em **"Aplicar"**.
 
@@ -62,15 +63,15 @@ Alterne entre dois modos de visualização:
 
 ## O que aparece em cada card de petshop
 
-| Informação | Descrição |
-|---|---|
-| **Foto** | Imagem principal do estabelecimento |
-| **Nome** | Nome fantasia do petshop |
-| **Avaliação** | Nota de 1 a 5 estrelas + número de avaliações |
-| **Distância** | Em quilômetros da sua localização |
-| **Status** | Aberto agora 🟢 / Fechado 🔴 + horário de abertura |
-| **Preço a partir de** | Menor preço de serviço disponível |
-| **Badge Destaque** | ⭐ Petshops com boost ativo |
+| Informação            | Descrição                                          |
+| --------------------- | -------------------------------------------------- |
+| **Foto**              | Imagem principal do estabelecimento                |
+| **Nome**              | Nome fantasia do petshop                           |
+| **Avaliação**         | Nota de 1 a 5 estrelas + número de avaliações      |
+| **Distância**         | Em quilômetros da sua localização                  |
+| **Status**            | Aberto agora 🟢 / Fechado 🔴 + horário de abertura |
+| **Preço a partir de** | Menor preço de serviço disponível                  |
+| **Badge Destaque**    | ⭐ Petshops com boost ativo                        |
 
 ---
 
@@ -89,7 +90,7 @@ Para recomendar um petshop para alguém:
 
 ✅ **Resultados em tempo real** — A lista atualiza automaticamente conforme você move o mapa ou altera os filtros.
 
-✅ **Sem resultados** — Se nenhum petshop atender aos filtros, a tela exibe *"Nenhum petshop encontrado. Tente ampliar o raio de busca."*
+✅ **Sem resultados** — Se nenhum petshop atender aos filtros, a tela exibe _"Nenhum petshop encontrado. Tente ampliar o raio de busca."_
 
 ✅ **Filtros ativos** — Um contador mostra quantos filtros estão ativos (ex: "Filtros (2)") para você saber que a busca está filtrada.
 

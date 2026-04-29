@@ -10,6 +10,7 @@ Após o atendimento, você pode avaliar de duas formas:
 O petshop pode enviar um link direto para a avaliação após o atendimento.
 
 **2. Pelo portal:**
+
 1. Acesse o portal do petshop
 2. Toque em **"Avaliar atendimento"**
 3. Informe seu número de celular
@@ -23,19 +24,19 @@ O petshop pode enviar um link direto para a avaliação após o atendimento.
 
 Toque nas estrelas para dar sua nota:
 
-| Nota | Significado |
-|---|---|
-| ⭐ | Muito ruim — não voltaria |
-| ⭐⭐ | Ruim — abaixo do esperado |
-| ⭐⭐⭐ | Regular — ok, mas pode melhorar |
-| ⭐⭐⭐⭐ | Bom — atendimento satisfatório |
+| Nota       | Significado                         |
+| ---------- | ----------------------------------- |
+| ⭐         | Muito ruim — não voltaria           |
+| ⭐⭐       | Ruim — abaixo do esperado           |
+| ⭐⭐⭐     | Regular — ok, mas pode melhorar     |
+| ⭐⭐⭐⭐   | Bom — atendimento satisfatório      |
 | ⭐⭐⭐⭐⭐ | Excelente — superou as expectativas |
 
 ### Comentário (opcional)
 
 Escreva sobre sua experiência — o que gostou, o que poderia melhorar. Seja específico! Comentários detalhados são mais úteis para outros tutores.
 
-*Máximo: 500 caracteres*
+_Máximo: 500 caracteres_
 
 ### Aspectos do atendimento (opcional)
 
@@ -75,6 +76,7 @@ Sua avaliação é publicada imediatamente no perfil do petshop.
 ## Editando sua avaliação
 
 Se quiser alterar o que escreveu:
+
 1. Acesse o portal e seu histórico
 2. Toque na avaliação que deseja editar
 3. Faça as alterações

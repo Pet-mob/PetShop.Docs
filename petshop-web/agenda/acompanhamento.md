@@ -27,13 +27,13 @@ Quando o tutor deixa o pet no petshop, ele fica ansioso sem saber o que está ac
 
 O atendimento passa por 5 etapas que você atualiza manualmente:
 
-| Status | Ícone | O que significa |
-|---|---|---|
-| **1. Aguardando chegada** | 🕐 | Agendamento confirmado, pet ainda não chegou |
-| **2. Pet chegou** | 🐾 | O pet foi entregue e está no estabelecimento |
-| **3. Em atendimento** | ✂️ | O serviço está sendo realizado |
-| **4. Finalizando** | 🎀 | Último toque antes de chamar o tutor |
-| **5. Pronto para retirada** | ✅ | O pet está pronto, tutor pode vir buscar |
+| Status                      | Ícone | O que significa                              |
+| --------------------------- | ----- | -------------------------------------------- |
+| **1. Aguardando chegada**   | 🕐    | Agendamento confirmado, pet ainda não chegou |
+| **2. Pet chegou**           | 🐾    | O pet foi entregue e está no estabelecimento |
+| **3. Em atendimento**       | ✂️    | O serviço está sendo realizado               |
+| **4. Finalizando**          | 🎀    | Último toque antes de chamar o tutor         |
+| **5. Pronto para retirada** | ✅    | O pet está pronto, tutor pode vir buscar     |
 
 ---
 
@@ -65,18 +65,21 @@ No app PetMob, o tutor vê uma **linha do tempo visual** com cada etapa:
 ```
 
 Além disso, recebe uma **notificação push** em cada troca de status com uma mensagem amigável. Exemplo:
-> *"🎀 Seu pet Bolt está quase pronto! Em breve pode vir buscá-lo."*
+
+> _"🎀 Seu pet Bolt está quase pronto! Em breve pode vir buscá-lo."_
 
 ---
 
 ## Concluindo o atendimento
 
 Ao marcar o status como **"Pronto para retirada"**, o sistema automaticamente:
+
 1. Registra o atendimento como **Concluído** ao confirmar a saída
 2. Adiciona o valor ao faturamento do dia no Dashboard
 3. Envia uma solicitação de avaliação para o cliente no app (após a retirada)
 
 Para registrar a saída do pet:
+
 1. Confirme que o tutor veio buscar
 2. Clique em **"Confirmar retirada"**
 3. O atendimento é finalizado

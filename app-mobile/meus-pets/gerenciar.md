@@ -35,14 +35,14 @@ Toque em **"+ Adicionar pet"** e siga os passos descritos em [Adicionar seu Pet]
 
 ### O que você pode editar
 
-| Pode editar | Não pode editar |
-|---|---|
-| Nome | Espécie (após primeiro agendamento) |
-| Foto | |
-| Peso atual | |
-| Pelagem | |
-| Alergias e saúde | |
-| Data de nascimento | |
+| Pode editar        | Não pode editar                     |
+| ------------------ | ----------------------------------- |
+| Nome               | Espécie (após primeiro agendamento) |
+| Foto               |                                     |
+| Peso atual         |                                     |
+| Pelagem            |                                     |
+| Alergias e saúde   |                                     |
+| Data de nascimento |                                     |
 
 ---
 
@@ -51,16 +51,19 @@ Toque em **"+ Adicionar pet"** e siga os passos descritos em [Adicionar seu Pet]
 As informações de saúde são as mais importantes do cadastro. Mantenha-as sempre atualizadas:
 
 **Alergias**
+
 - Liste todos os produtos que causam reação: shampoos específicos, perfumes, ingredientes
-- Ex: *"Alergia a shampoo com sulfato. Usar apenas produtos hipoalergênicos."*
+- Ex: _"Alergia a shampoo com sulfato. Usar apenas produtos hipoalergênicos."_
 
 **Medicamentos em uso**
+
 - Se seu pet toma algum medicamento, informe aqui
-- Ex: *"Toma Rimadyl 25mg/dia para artrite"*
+- Ex: _"Toma Rimadyl 25mg/dia para artrite"_
 
 **Observações de comportamento**
+
 - Informe se o pet é agressivo com outros animais, tem medo de secador, etc.
-- Ex: *"Nervoso com barulho alto. Prefere atendimento individual."*
+- Ex: _"Nervoso com barulho alto. Prefere atendimento individual."_
 
 ::: warning Por que isso é tão importante?
 O profissional que vai atender seu pet lê essas informações antes do serviço. Uma alergia não informada pode causar uma reação séria. Preencha com atenção!

@@ -14,12 +14,12 @@ Menu lateral → **Gestão → Promoções**
 
 ## Diferença entre Promoções e Cupons
 
-| | Promoções | Cupons |
-|---|---|---|
-| **Como o cliente acessa** | Visível automaticamente no app | Precisa de código |
-| **Para quem se aplica** | Todos os clientes | Quem tem o código |
-| **Uso ideal** | Campanhas amplas, datas especiais | Ações segmentadas, fidelização |
-| **Exemplo** | "Tosa em dobro toda terça-feira" | "BEMVINDO20 — 20% no primeiro agendamento" |
+|                           | Promoções                         | Cupons                                     |
+| ------------------------- | --------------------------------- | ------------------------------------------ |
+| **Como o cliente acessa** | Visível automaticamente no app    | Precisa de código                          |
+| **Para quem se aplica**   | Todos os clientes                 | Quem tem o código                          |
+| **Uso ideal**             | Campanhas amplas, datas especiais | Ações segmentadas, fidelização             |
+| **Exemplo**               | "Tosa em dobro toda terça-feira"  | "BEMVINDO20 — 20% no primeiro agendamento" |
 
 ---
 
@@ -28,17 +28,17 @@ Menu lateral → **Gestão → Promoções**
 1. Clique em **"+ Criar promoção"**
 2. Preencha os dados:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome da promoção** | ✅ Sim | Ex: "Semana do Pet", "Promoção de Inverno" |
-| **Descrição** | ❌ Não | Texto que aparece no app para o cliente |
-| **Serviço(s) incluído(s)** | ✅ Sim | Quais serviços fazem parte da promoção |
-| **Tipo de desconto** | ✅ Sim | Percentual (%) ou valor fixo (R$) |
-| **Valor do desconto** | ✅ Sim | |
-| **Data de início** | ✅ Sim | |
-| **Data de fim** | ✅ Sim | |
-| **Dias da semana** | ❌ Não | Se a promoção vale apenas certos dias |
-| **Horários** | ❌ Não | Se a promoção vale apenas em certos horários |
+| Campo                      | Obrigatório | Descrição                                    |
+| -------------------------- | ----------- | -------------------------------------------- |
+| **Nome da promoção**       | ✅ Sim      | Ex: "Semana do Pet", "Promoção de Inverno"   |
+| **Descrição**              | ❌ Não      | Texto que aparece no app para o cliente      |
+| **Serviço(s) incluído(s)** | ✅ Sim      | Quais serviços fazem parte da promoção       |
+| **Tipo de desconto**       | ✅ Sim      | Percentual (%) ou valor fixo (R$)            |
+| **Valor do desconto**      | ✅ Sim      |                                              |
+| **Data de início**         | ✅ Sim      |                                              |
+| **Data de fim**            | ✅ Sim      |                                              |
+| **Dias da semana**         | ❌ Não      | Se a promoção vale apenas certos dias        |
+| **Horários**               | ❌ Não      | Se a promoção vale apenas em certos horários |
 
 3. Clique em **"Publicar promoção"**
 
@@ -54,14 +54,14 @@ Quando um cliente acessa seu perfil no app ou faz uma busca, um badge **"PROMOÇ
 
 A lista exibe todas as promoções criadas:
 
-| Coluna | Descrição |
-|---|---|
-| **Nome** | Título da promoção |
-| **Serviço(s)** | Serviços em promoção |
-| **Desconto** | Valor ou percentual |
-| **Vigência** | Período de início e fim |
+| Coluna           | Descrição                          |
+| ---------------- | ---------------------------------- |
+| **Nome**         | Título da promoção                 |
+| **Serviço(s)**   | Serviços em promoção               |
+| **Desconto**     | Valor ou percentual                |
+| **Vigência**     | Período de início e fim            |
 | **Agendamentos** | Vezes que a promoção foi utilizada |
-| **Status** | Ativa / Encerrada / Agendada |
+| **Status**       | Ativa / Encerrada / Agendada       |
 
 ---
 
@@ -87,10 +87,10 @@ A promoção é removida do app imediatamente. Agendamentos já feitos com o pre
 
 ## Ideias de promoções para usar
 
-| Campanha | Ideia |
-|---|---|
-| 🐾 Dia do Animal | 20% em todos os serviços no dia 4 de outubro |
-| ❄️ Inverno | Banho com secagem especial por preço especial |
-| 📅 Terça em dobro | Combo Banho+Tosa por preço de um |
-| 🎂 Aniversário do pet | 15% de desconto no mês de nascimento do pet |
-| 🌟 Novo cliente | 10% na primeira visita |
+| Campanha              | Ideia                                         |
+| --------------------- | --------------------------------------------- |
+| 🐾 Dia do Animal      | 20% em todos os serviços no dia 4 de outubro  |
+| ❄️ Inverno            | Banho com secagem especial por preço especial |
+| 📅 Terça em dobro     | Combo Banho+Tosa por preço de um              |
+| 🎂 Aniversário do pet | 15% de desconto no mês de nascimento do pet   |
+| 🌟 Novo cliente       | 10% na primeira visita                        |

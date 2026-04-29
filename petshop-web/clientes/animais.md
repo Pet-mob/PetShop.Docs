@@ -10,17 +10,17 @@ Menu lateral → **Clientes → Meus Pets**
 
 ## O que é exibido por pet
 
-| Informação | Descrição |
-|---|---|
-| **Foto** | Foto do animal (ou imagem padrão caso não cadastrada) |
-| **Nome** | Nome do pet |
-| **Raça** | Raça declarada pelo tutor |
-| **Idade** | Idade em anos |
-| **Porte** | Pequeno / Médio / Grande / Gigante |
-| **Cor** | Cor do pelo/pelagem |
-| **Alergias** | ⚠️ Exibido em destaque laranja — leia antes de iniciar o atendimento |
-| **Anotações especiais** | Informações importantes registradas pelo tutor |
-| **Observações** | Campo livre para informações adicionais |
+| Informação              | Descrição                                                            |
+| ----------------------- | -------------------------------------------------------------------- |
+| **Foto**                | Foto do animal (ou imagem padrão caso não cadastrada)                |
+| **Nome**                | Nome do pet                                                          |
+| **Raça**                | Raça declarada pelo tutor                                            |
+| **Idade**               | Idade em anos                                                        |
+| **Porte**               | Pequeno / Médio / Grande / Gigante                                   |
+| **Cor**                 | Cor do pelo/pelagem                                                  |
+| **Alergias**            | ⚠️ Exibido em destaque laranja — leia antes de iniciar o atendimento |
+| **Anotações especiais** | Informações importantes registradas pelo tutor                       |
+| **Observações**         | Campo livre para informações adicionais                              |
 
 ::: warning Atenção às alergias
 Se o pet tiver alergias cadastradas, um alerta em destaque aparece no card. **Leia sempre antes de iniciar o banho ou tosa** para evitar reações adversas.

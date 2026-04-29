@@ -17,14 +17,14 @@ Menu lateral → **Gestão → Funcionários**
 1. Clique em **"+ Adicionar funcionário"**
 2. Preencha os dados:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome completo** | ✅ Sim | Nome do profissional |
-| **Cargo/Função** | ✅ Sim | Ex: Tosador, Banhista, Recepcionista |
-| **Telefone** | ❌ Não | Contato interno |
-| **E-mail** | ❌ Não | Para acesso ao sistema (se aplicável) |
-| **Foto** | ❌ Não | Foto do profissional (aparece no app para o tutor) |
-| **Serviços que realiza** | ✅ Sim | Quais serviços do catálogo esse funcionário executa |
+| Campo                    | Obrigatório | Descrição                                           |
+| ------------------------ | ----------- | --------------------------------------------------- |
+| **Nome completo**        | ✅ Sim      | Nome do profissional                                |
+| **Cargo/Função**         | ✅ Sim      | Ex: Tosador, Banhista, Recepcionista                |
+| **Telefone**             | ❌ Não      | Contato interno                                     |
+| **E-mail**               | ❌ Não      | Para acesso ao sistema (se aplicável)               |
+| **Foto**                 | ❌ Não      | Foto do profissional (aparece no app para o tutor)  |
+| **Serviços que realiza** | ✅ Sim      | Quais serviços do catálogo esse funcionário executa |
 
 3. Clique em **"Salvar"**
 
@@ -44,12 +44,12 @@ Após cadastrar os funcionários, você pode associá-los a agendamentos de duas
 
 A tela de funcionários exibe métricas de cada profissional:
 
-| Métrica | Descrição |
-|---|---|
-| **Atendimentos realizados** | Total de atendimentos no período selecionado |
-| **Avaliação média** | Média das avaliações dos clientes atendidos por ele |
-| **Faturamento gerado** | Valor total dos serviços realizados por ele |
-| **Taxa de cancelamento** | % de atendimentos cancelados relativos a ele |
+| Métrica                     | Descrição                                           |
+| --------------------------- | --------------------------------------------------- |
+| **Atendimentos realizados** | Total de atendimentos no período selecionado        |
+| **Avaliação média**         | Média das avaliações dos clientes atendidos por ele |
+| **Faturamento gerado**      | Valor total dos serviços realizados por ele         |
+| **Taxa de cancelamento**    | % de atendimentos cancelados relativos a ele        |
 
 ::: tip
 Use as métricas para reconhecer os melhores profissionais e identificar necessidades de treinamento.

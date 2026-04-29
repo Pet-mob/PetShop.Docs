@@ -5,6 +5,7 @@ O portal de agendamento é uma alternativa ao app para tutores que preferem agen
 ## Acessando o portal
 
 O petshop compartilha um link no formato:
+
 ```
 https://petshop.petmob.com.br/portal/nome-do-petshop
 ```
@@ -17,10 +18,10 @@ Abra esse link em qualquer navegador (celular ou computador).
 
 Na primeira etapa, informe seus dados de contato:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Seu nome** | ✅ Sim | Como o petshop vai te chamar |
-| **Celular/WhatsApp** | ✅ Sim | Para o petshop entrar em contato se necessário |
+| Campo                | Obrigatório | Descrição                                      |
+| -------------------- | ----------- | ---------------------------------------------- |
+| **Seu nome**         | ✅ Sim      | Como o petshop vai te chamar                   |
+| **Celular/WhatsApp** | ✅ Sim      | Para o petshop entrar em contato se necessário |
 
 ::: info Sem cadastro necessário
 Você não precisa criar uma conta nem fazer login. Apenas informe seu nome e telefone para continuar.
@@ -32,13 +33,13 @@ Você não precisa criar uma conta nem fazer login. Apenas informe seu nome e te
 
 Informe os dados do seu pet para o serviço ser cotado corretamente:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome do pet** | ✅ Sim | |
-| **Espécie** | ✅ Sim | Cão ou Gato |
-| **Porte** | ✅ Sim | Pequeno, Médio ou Grande |
-| **Raça** | ❌ Não | |
-| **Observações** | ❌ Não | Alergias, comportamento, etc. |
+| Campo           | Obrigatório | Descrição                     |
+| --------------- | ----------- | ----------------------------- |
+| **Nome do pet** | ✅ Sim      |                               |
+| **Espécie**     | ✅ Sim      | Cão ou Gato                   |
+| **Porte**       | ✅ Sim      | Pequeno, Médio ou Grande      |
+| **Raça**        | ❌ Não      |                               |
+| **Observações** | ❌ Não      | Alergias, comportamento, etc. |
 
 ---
 

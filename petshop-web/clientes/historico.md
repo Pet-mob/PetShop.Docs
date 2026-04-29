@@ -30,14 +30,14 @@ A tela exibe uma lista completa de todos os atendimentos realizados, com:
 
 Use os filtros para encontrar exatamente o que procura:
 
-| Filtro | Como usar |
-|---|---|
-| **Período** | Selecione data início e data fim |
-| **Cliente** | Busque pelo nome ou telefone do cliente |
-| **Pet** | Busque pelo nome do pet |
-| **Serviço** | Filtre por tipo de serviço |
+| Filtro          | Como usar                                      |
+| --------------- | ---------------------------------------------- |
+| **Período**     | Selecione data início e data fim               |
+| **Cliente**     | Busque pelo nome ou telefone do cliente        |
+| **Pet**         | Busque pelo nome do pet                        |
+| **Serviço**     | Filtre por tipo de serviço                     |
 | **Funcionário** | Veja atendimentos de um funcionário específico |
-| **Avaliação** | Filtre por estrelas (1 a 5) |
+| **Avaliação**   | Filtre por estrelas (1 a 5)                    |
 
 ---
 

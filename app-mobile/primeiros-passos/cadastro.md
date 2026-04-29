@@ -9,21 +9,23 @@ Seu primeiro acesso ao app **PetMob** leva menos de 2 minutos. Você só precisa
 **1. Abra o app e toque em "Criar conta"**
 
 **2. Informe seu número de celular**
+
 - Digite o número com DDD (ex: 11 99999-9999)
 - Toque em "Enviar código"
 
 **3. Confirme pelo SMS**
+
 - Você receberá um código de 6 dígitos via SMS
 - Digite o código no campo indicado
 - O código expira em 5 minutos
 
 **4. Preencha seus dados**
 
-| Campo | Obrigatório | Dica |
-|---|---|---|
-| **Nome completo** | ✅ Sim | Use seu nome real para facilitar a identificação no petshop |
-| **E-mail** | ❌ Não | Recomendado para recuperação de conta |
-| **Senha** | ✅ Sim | Mínimo 8 caracteres |
+| Campo             | Obrigatório | Dica                                                        |
+| ----------------- | ----------- | ----------------------------------------------------------- |
+| **Nome completo** | ✅ Sim      | Use seu nome real para facilitar a identificação no petshop |
+| **E-mail**        | ❌ Não      | Recomendado para recuperação de conta                       |
+| **Senha**         | ✅ Sim      | Mínimo 8 caracteres                                         |
 
 **5. Toque em "Finalizar cadastro"**
 

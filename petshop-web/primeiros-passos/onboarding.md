@@ -17,6 +17,7 @@ O assistente tem 5 etapas indicadas no topo da tela por um **stepper visual**. C
 ### Etapa 1 — Boas-vindas
 
 Tela de apresentação com o resumo do que será configurado:
+
 - Identidade visual
 - Dados do estabelecimento
 - Serviços oferecidos
@@ -28,12 +29,13 @@ Clique em **"Começar configuração →"** para iniciar.
 
 ### Etapa 2 — Identidade Visual
 
-| Campo | Descrição |
-|---|---|
-| **Logo do petshop** | Imagem PNG/JPG, máx. 5 MB — aparece no app e no portal |
-| **Foto de capa** | Imagem panorâmica do estabelecimento — aparece no perfil público |
+| Campo               | Descrição                                                        |
+| ------------------- | ---------------------------------------------------------------- |
+| **Logo do petshop** | Imagem PNG/JPG, máx. 5 MB — aparece no app e no portal           |
+| **Foto de capa**    | Imagem panorâmica do estabelecimento — aparece no perfil público |
 
 Como fazer o upload:
+
 1. Clique na área de upload correspondente
 2. Selecione o arquivo no seu computador
 3. Veja o preview antes de avançar
@@ -47,6 +49,7 @@ Use uma foto de boa qualidade da fachada ou do ambiente interno. Petshops com fo
 ### Etapa 3 — Dados do Estabelecimento
 
 Revise ou preencha:
+
 - Endereço completo (rua, número, complemento, bairro, cidade)
 - Telefone de contato
 - Breve descrição do petshop (aparece no app para os clientes)
@@ -57,11 +60,11 @@ Revise ou preencha:
 
 Adicione os serviços que seu petshop oferece. Para cada serviço:
 
-| Campo | Descrição |
-|---|---|
-| **Nome** | Ex: Banho, Tosa, Banho e Tosa |
-| **Preço** | Valor base do serviço |
-| **Duração estimada** | Em minutos (ex: 60, 90, 120) |
+| Campo                  | Descrição                       |
+| ---------------------- | ------------------------------- |
+| **Nome**               | Ex: Banho, Tosa, Banho e Tosa   |
+| **Preço**              | Valor base do serviço           |
+| **Duração estimada**   | Em minutos (ex: 60, 90, 120)    |
 | **Porte(s) atendidos** | Pequeno, Médio, Grande, Gigante |
 
 Você pode adicionar quantos serviços quiser. Clique em **"+ Adicionar serviço"** para incluir mais.
@@ -96,12 +99,12 @@ Assim que o onboarding é concluído, seu portal de agendamento já está dispon
 
 Se você clicou em **"Configurar depois"**, as mesmas configurações podem ser feitas manualmente:
 
-| Configuração | Onde encontrar |
-|---|---|
-| Logo e foto de capa | Configurações → Dados da Empresa |
-| Endereço e contato | Configurações → Dados da Empresa |
-| Serviços | Configurações → Serviços |
-| Horários | Configurações → Horário de Funcionamento |
+| Configuração        | Onde encontrar                           |
+| ------------------- | ---------------------------------------- |
+| Logo e foto de capa | Configurações → Dados da Empresa         |
+| Endereço e contato  | Configurações → Dados da Empresa         |
+| Serviços            | Configurações → Serviços                 |
+| Horários            | Configurações → Horário de Funcionamento |
 
 ---
 

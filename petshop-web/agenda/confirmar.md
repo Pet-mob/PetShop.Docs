@@ -28,14 +28,14 @@ Cliente recebe notificação no app
 
 Para cada agendamento aguardando confirmação:
 
-| Informação | Descrição |
-|---|---|
-| **Cliente** | Nome completo e telefone |
-| **Pet** | Nome, raça e porte |
-| **Serviço** | O serviço solicitado |
-| **Data e horário** | Quando o cliente deseja ser atendido |
-| **Valor** | Preço do serviço conforme tabela |
-| **Observações** | Alguma mensagem do cliente (se houver) |
+| Informação         | Descrição                              |
+| ------------------ | -------------------------------------- |
+| **Cliente**        | Nome completo e telefone               |
+| **Pet**            | Nome, raça e porte                     |
+| **Serviço**        | O serviço solicitado                   |
+| **Data e horário** | Quando o cliente deseja ser atendido   |
+| **Valor**          | Preço do serviço conforme tabela       |
+| **Observações**    | Alguma mensagem do cliente (se houver) |
 
 ---
 
@@ -45,7 +45,7 @@ Para cada agendamento aguardando confirmação:
 2. Clique em **"Confirmar"** (botão verde)
 3. Pronto — o agendamento entra na agenda com status **Confirmado**
 
-O cliente recebe uma notificação push no celular: *"Seu agendamento foi confirmado! 🎉"*
+O cliente recebe uma notificação push no celular: _"Seu agendamento foi confirmado! 🎉"_
 
 ---
 
@@ -74,7 +74,7 @@ Sempre que recusar um agendamento, use o campo de observações para explicar o 
 
 ✅ **Prazo de resposta** — O sistema recomenda confirmar ou recusar em até 2 horas. Após 24 horas sem resposta, o cliente pode cancelar a solicitação.
 
-✅ **Lista vazia** — Se não houver pendências, a tela exibe: *"Nenhum agendamento aguardando confirmação. Tudo em dia! ✅"*
+✅ **Lista vazia** — Se não houver pendências, a tela exibe: _"Nenhum agendamento aguardando confirmação. Tudo em dia! ✅"_
 
 ✅ **Ordenação** — Os agendamentos são exibidos do mais antigo para o mais recente (quem esperou mais tempo aparece primeiro).
 

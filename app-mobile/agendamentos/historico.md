@@ -10,25 +10,25 @@ Toque na aba **Agendamentos** na barra inferior do app.
 
 ## Abas da tela
 
-| Aba | O que mostra |
-|---|---|
-| **Próximos** | Agendamentos confirmados ou aguardando confirmação |
-| **Concluídos** | Atendimentos já realizados |
+| Aba            | O que mostra                                       |
+| -------------- | -------------------------------------------------- |
+| **Próximos**   | Agendamentos confirmados ou aguardando confirmação |
+| **Concluídos** | Atendimentos já realizados                         |
 | **Cancelados** | Agendamentos cancelados (por você ou pelo petshop) |
 
 ---
 
 ## O que você vê em cada agendamento
 
-| Informação | Descrição |
-|---|---|
-| **Petshop** | Nome e foto do estabelecimento |
-| **Pet** | Qual pet foi atendido |
-| **Serviço** | O que foi realizado |
-| **Data e horário** | Quando foi o atendimento |
-| **Valor** | Quanto foi cobrado |
-| **Status** | Aguardando, Confirmado, Em andamento, Concluído, Cancelado |
-| **Avaliação** | Sua nota (se já avaliou) |
+| Informação         | Descrição                                                  |
+| ------------------ | ---------------------------------------------------------- |
+| **Petshop**        | Nome e foto do estabelecimento                             |
+| **Pet**            | Qual pet foi atendido                                      |
+| **Serviço**        | O que foi realizado                                        |
+| **Data e horário** | Quando foi o atendimento                                   |
+| **Valor**          | Quanto foi cobrado                                         |
+| **Status**         | Aguardando, Confirmado, Em andamento, Concluído, Cancelado |
+| **Avaliação**      | Sua nota (se já avaliou)                                   |
 
 ---
 

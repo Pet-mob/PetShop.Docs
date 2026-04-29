@@ -12,37 +12,37 @@ Toque em **Perfil → Notificações**
 
 ### Notificações de agendamento
 
-| Evento | Quando chega |
-|---|---|
-| **Agendamento confirmado** | Quando o petshop aprova sua solicitação |
-| **Agendamento recusado** | Quando o petshop não pode atender |
-| **Lembrete de agendamento** | 24h e 2h antes do horário marcado |
-| **Pet chegou** | Quando o petshop confirma a chegada do pet |
-| **Em atendimento** | Quando o serviço começa |
-| **Pronto para retirada** | Quando o pet está pronto |
-| **Agendamento cancelado** | Se o petshop cancelar |
+| Evento                      | Quando chega                               |
+| --------------------------- | ------------------------------------------ |
+| **Agendamento confirmado**  | Quando o petshop aprova sua solicitação    |
+| **Agendamento recusado**    | Quando o petshop não pode atender          |
+| **Lembrete de agendamento** | 24h e 2h antes do horário marcado          |
+| **Pet chegou**              | Quando o petshop confirma a chegada do pet |
+| **Em atendimento**          | Quando o serviço começa                    |
+| **Pronto para retirada**    | Quando o pet está pronto                   |
+| **Agendamento cancelado**   | Se o petshop cancelar                      |
 
 ### Notificações de fidelidade
 
-| Evento | Quando chega |
-|---|---|
-| **Pontos creditados** | Após cada atendimento concluído |
-| **Pontos a vencer** | 30 dias antes do vencimento |
+| Evento                 | Quando chega                                        |
+| ---------------------- | --------------------------------------------------- |
+| **Pontos creditados**  | Após cada atendimento concluído                     |
+| **Pontos a vencer**    | 30 dias antes do vencimento                         |
 | **Bônus de indicação** | Quando um amigo indicado faz o primeiro agendamento |
 
 ### Notificações de saúde
 
-| Evento | Quando chega |
-|---|---|
-| **Vacina próxima do vencimento** | 30 e 7 dias antes |
-| **Vacina vencida** | No dia do vencimento |
+| Evento                           | Quando chega         |
+| -------------------------------- | -------------------- |
+| **Vacina próxima do vencimento** | 30 e 7 dias antes    |
+| **Vacina vencida**               | No dia do vencimento |
 
 ### Notificações promocionais
 
-| Evento | Quando chega |
-|---|---|
-| **Nova promoção** | Quando um petshop favorito lança uma promoção |
-| **Cupom disponível** | Quando você recebe um cupom especial |
+| Evento               | Quando chega                                  |
+| -------------------- | --------------------------------------------- |
+| **Nova promoção**    | Quando um petshop favorito lança uma promoção |
+| **Cupom disponível** | Quando você recebe um cupom especial          |
 
 ---
 
@@ -61,12 +61,14 @@ Você pode ativar ou desativar cada tipo de notificação individualmente:
 Para receber as notificações, o app precisa de permissão do seu celular:
 
 **iPhone (iOS):**
+
 1. Abra **Configurações** do iPhone
 2. Role até encontrar **PetMob**
 3. Toque em **Notificações**
 4. Ative "Permitir Notificações"
 
 **Android:**
+
 1. Abra **Configurações** do celular
 2. Vá em **Apps** → **PetMob**
 3. Toque em **Notificações**
@@ -87,6 +89,7 @@ Para receber as notificações, o app precisa de permissão do seu celular:
 ## Perguntas frequentes
 
 **Não estou recebendo notificações. O que fazer?**
+
 1. Verifique se as notificações estão ativas nas configurações do celular
 2. Verifique se estão ativas nas configurações do app
 3. Verifique se há conexão com a internet

@@ -10,14 +10,14 @@ Menu lateral → **Configurações → Dados da Empresa**
 
 ## Informações cadastrais
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome do petshop** | ✅ Sim | Nome fantasia exibido no app |
-| **CNPJ** | ✅ Sim | Não pode ser alterado após o cadastro |
-| **Razão social** | ❌ Não | Para emissão de documentos |
-| **E-mail** | ✅ Sim | E-mail de login e contato |
-| **Telefone** | ✅ Sim | WhatsApp principal |
-| **Site** | ❌ Não | URL do seu site institucional |
+| Campo               | Obrigatório | Descrição                             |
+| ------------------- | ----------- | ------------------------------------- |
+| **Nome do petshop** | ✅ Sim      | Nome fantasia exibido no app          |
+| **CNPJ**            | ✅ Sim      | Não pode ser alterado após o cadastro |
+| **Razão social**    | ❌ Não      | Para emissão de documentos            |
+| **E-mail**          | ✅ Sim      | E-mail de login e contato             |
+| **Telefone**        | ✅ Sim      | WhatsApp principal                    |
+| **Site**            | ❌ Não      | URL do seu site institucional         |
 
 ---
 
@@ -25,15 +25,15 @@ Menu lateral → **Configurações → Dados da Empresa**
 
 O endereço é usado para exibir seu petshop no mapa do app e para calcular a distância até os tutores.
 
-| Campo | Obrigatório |
-|---|---|
-| CEP | ✅ |
-| Rua | ✅ |
-| Número | ✅ |
-| Complemento | ❌ |
-| Bairro | ✅ |
-| Cidade | ✅ |
-| Estado | ✅ |
+| Campo       | Obrigatório |
+| ----------- | ----------- |
+| CEP         | ✅          |
+| Rua         | ✅          |
+| Número      | ✅          |
+| Complemento | ❌          |
+| Bairro      | ✅          |
+| Cidade      | ✅          |
+| Estado      | ✅          |
 
 ::: tip Endereço no mapa
 Após salvar o endereço, confirme a localização no mapa clicando em **"Verificar no mapa"**. Ajuste o pino se necessário para garantir que os clientes te encontrem corretamente.
@@ -46,11 +46,13 @@ Após salvar o endereço, confirme a localização no mapa clicando em **"Verifi
 Petshops com foto têm **3x mais chances** de serem selecionados por clientes no app.
 
 ### Logo/foto principal
+
 - Aparece como avatar do petshop no app
 - Formato: JPG ou PNG
 - Tamanho recomendado: 400x400px (quadrado)
 
 ### Galeria de fotos
+
 - Até 10 fotos do seu espaço
 - Mostram o ambiente, equipamentos e trabalhos realizados
 - Para adicionar: clique em **"+ Adicionar foto"**
@@ -67,17 +69,17 @@ Um texto de apresentação que aparece no perfil público do seu petshop no app.
 - Certificações
 - Diferenciais do atendimento
 
-*Limite: 500 caracteres*
+_Limite: 500 caracteres_
 
 ---
 
 ## Redes sociais
 
-| Rede | Como preencher |
-|---|---|
+| Rede          | Como preencher                       |
+| ------------- | ------------------------------------ |
 | **Instagram** | Somente o @usuário (ex: @meupetshop) |
-| **Facebook** | URL completa ou nome da página |
-| **WhatsApp** | Número com DDD (ex: 11999999999) |
+| **Facebook**  | URL completa ou nome da página       |
+| **WhatsApp**  | Número com DDD (ex: 11999999999)     |
 
 ---
 

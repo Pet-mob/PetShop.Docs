@@ -5,6 +5,7 @@ A tela de Planos exibe todos os planos disponíveis na PetMob com comparação d
 ## Como acessar
 
 Esta tela é exibida:
+
 - Durante o cadastro (para escolha do plano inicial)
 - Ao clicar em **"Ver planos"** em qualquer notificação de upgrade dentro do painel
 
@@ -13,21 +14,24 @@ Esta tela é exibida:
 ## Os 3 planos PetMob
 
 ### 🥉 Starter — R$ 97/mês
-*(R$ 78/mês no anual — 20% de desconto)*
+
+_(R$ 78/mês no anual — 20% de desconto)_
 
 Para petshops que estão começando. Inclui agenda, confirmações, portal de agendamento e até **2 usuários**.
 
 ---
 
 ### 🥈 Pro — R$ 297/mês ⭐ Mais popular
-*(R$ 238/mês no anual — 20% de desconto)*
+
+_(R$ 238/mês no anual — 20% de desconto)_
 
 Para petshops em crescimento. Inclui tudo do Starter + histórico, avaliações, fidelidade, estoque, relatórios, cupons, promoções, combos e até **10 usuários**.
 
 ---
 
 ### 🥇 Elite — R$ 597/mês
-*(R$ 478/mês no anual — 20% de desconto)*
+
+_(R$ 478/mês no anual — 20% de desconto)_
 
 Para redes e franquias. Inclui tudo do Pro + multi-unidade, API de integração, destaque premium no marketplace, relatórios avançados, suporte prioritário e **usuários ilimitados**.
 
@@ -48,12 +52,13 @@ Ao ativar, aparece a mensagem **"Equivalente a 2 meses grátis"** sob o preço d
 
 A página inclui um simulador para estimar o quanto o PetMob pode gerar de receita adicional:
 
-| Campo | O que inserir |
-|---|---|
+| Campo                    | O que inserir                                 |
+| ------------------------ | --------------------------------------------- |
 | **Agendamentos por mês** | Quantos atendimentos você realiza mensalmente |
-| **Ticket médio (R$)** | Valor médio cobrado por atendimento |
+| **Ticket médio (R$)**    | Valor médio cobrado por atendimento           |
 
 O simulador calcula automaticamente:
+
 - Receita mensal estimada
 - Receita anual
 - ROI comparado com o custo do plano

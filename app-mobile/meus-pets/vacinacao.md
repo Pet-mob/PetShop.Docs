@@ -11,6 +11,7 @@ A Carteira de Vacinação é um recurso exclusivo do app PetMob. Guarde os regis
 ## O que é a Carteira de Vacinação Digital?
 
 É um registro digital de todas as vacinas do seu pet. Você pode:
+
 - Cadastrar vacinas com data de aplicação e vencimento
 - Anexar fotos do comprovante físico
 - Receber alertas quando uma vacina estiver próxima do vencimento
@@ -23,15 +24,15 @@ A Carteira de Vacinação é um recurso exclusivo do app PetMob. Guarde os regis
 1. Toque em **"+ Adicionar vacina"**
 2. Preencha os dados:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome da vacina** | ✅ Sim | Ex: V8, V10, Antirrábica, Giárdia |
-| **Data de aplicação** | ✅ Sim | Quando foi aplicada |
-| **Data de vencimento** | ❌ Não | Quando precisa de reforço |
-| **Veterinário** | ❌ Não | Nome do veterinário responsável |
-| **Clínica/local** | ❌ Não | Onde foi aplicada |
-| **Foto do comprovante** | ❌ Não | Foto do cartão de vacinação físico |
-| **Observações** | ❌ Não | Reações, lote, etc. |
+| Campo                   | Obrigatório | Descrição                          |
+| ----------------------- | ----------- | ---------------------------------- |
+| **Nome da vacina**      | ✅ Sim      | Ex: V8, V10, Antirrábica, Giárdia  |
+| **Data de aplicação**   | ✅ Sim      | Quando foi aplicada                |
+| **Data de vencimento**  | ❌ Não      | Quando precisa de reforço          |
+| **Veterinário**         | ❌ Não      | Nome do veterinário responsável    |
+| **Clínica/local**       | ❌ Não      | Onde foi aplicada                  |
+| **Foto do comprovante** | ❌ Não      | Foto do cartão de vacinação físico |
+| **Observações**         | ❌ Não      | Reações, lote, etc.                |
 
 3. Toque em **"Salvar"**
 
@@ -39,14 +40,14 @@ A Carteira de Vacinação é um recurso exclusivo do app PetMob. Guarde os regis
 
 ## Vacinas comuns para cadastrar
 
-| Vacina | Frequência |
-|---|---|
-| **V8 / V10** (polivalente) | Anual após o reforço inicial |
-| **Antirrábica** | Anual |
-| **Giárdia** | Anual |
-| **Gripe canina (Bordetella)** | Anual ou semestral |
-| **Leucemia felina** (gatos) | Anual |
-| **Tríplice felina** (gatos) | Anual |
+| Vacina                        | Frequência                   |
+| ----------------------------- | ---------------------------- |
+| **V8 / V10** (polivalente)    | Anual após o reforço inicial |
+| **Antirrábica**               | Anual                        |
+| **Giárdia**                   | Anual                        |
+| **Gripe canina (Bordetella)** | Anual ou semestral           |
+| **Leucemia felina** (gatos)   | Anual                        |
+| **Tríplice felina** (gatos)   | Anual                        |
 
 ---
 
@@ -54,9 +55,9 @@ A Carteira de Vacinação é um recurso exclusivo do app PetMob. Guarde os regis
 
 Quando você cadastra a data de vencimento, o app envia notificações automáticas:
 
-- **30 dias antes** do vencimento: *"A vacina V10 do Bolt vence em 30 dias. Agende uma consulta veterinária!"*
-- **7 dias antes**: *"A vacina V10 do Bolt vence em 7 dias. Não esqueça de renovar!"*
-- **No dia do vencimento**: *"A vacina V10 do Bolt venceu hoje. Leve-o ao veterinário."*
+- **30 dias antes** do vencimento: _"A vacina V10 do Bolt vence em 30 dias. Agende uma consulta veterinária!"_
+- **7 dias antes**: _"A vacina V10 do Bolt vence em 7 dias. Não esqueça de renovar!"_
+- **No dia do vencimento**: _"A vacina V10 do Bolt venceu hoje. Leve-o ao veterinário."_
 
 ::: tip
 Manter as vacinas em dia é obrigação de todo tutor responsável — e muitos petshops exigem vacinas atualizadas para aceitar o pet no estabelecimento.

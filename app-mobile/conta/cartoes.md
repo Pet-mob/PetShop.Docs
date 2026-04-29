@@ -13,12 +13,12 @@ Toque em **Perfil → Meus Cartões**
 1. Toque em **"+ Adicionar cartão"**
 2. Preencha os dados:
 
-| Campo | Descrição |
-|---|---|
-| **Número do cartão** | 16 dígitos |
-| **Nome no cartão** | Exatamente como aparece no cartão |
-| **Validade** | MM/AA |
-| **CVV** | 3 ou 4 dígitos |
+| Campo                | Descrição                         |
+| -------------------- | --------------------------------- |
+| **Número do cartão** | 16 dígitos                        |
+| **Nome no cartão**   | Exatamente como aparece no cartão |
+| **Validade**         | MM/AA                             |
+| **CVV**              | 3 ou 4 dígitos                    |
 
 3. Toque em **"Salvar cartão"**
 
@@ -33,6 +33,7 @@ Os dados do cartão são processados com criptografia pelo Stripe — uma das pl
 Se você tiver mais de um cartão, pode definir um como **"Principal"**. Ele será selecionado automaticamente na hora do pagamento.
 
 Para definir:
+
 1. Toque e segure o cartão desejado
 2. Toque em **"Definir como principal"**
 
@@ -49,6 +50,7 @@ Para definir:
 ## Usando o cartão em um agendamento
 
 Na etapa de confirmação do agendamento (quando o petshop aceita pagamento pelo app):
+
 1. A seção **"Pagamento"** exibe seus cartões cadastrados
 2. Selecione o cartão desejado
 3. O pagamento é processado ao confirmar o agendamento

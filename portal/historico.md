@@ -15,13 +15,13 @@ Você pode consultar seus agendamentos anteriores e futuros diretamente pelo por
 
 O sistema exibe todos os agendamentos associados ao seu número:
 
-| Coluna | Descrição |
-|---|---|
-| **Data e horário** | Quando foi ou será o atendimento |
-| **Pet** | Qual pet foi atendido |
-| **Serviço** | O que foi realizado |
-| **Valor** | Quanto foi cobrado |
-| **Status** | Confirmado / Concluído / Cancelado |
+| Coluna             | Descrição                          |
+| ------------------ | ---------------------------------- |
+| **Data e horário** | Quando foi ou será o atendimento   |
+| **Pet**            | Qual pet foi atendido              |
+| **Serviço**        | O que foi realizado                |
+| **Valor**          | Quanto foi cobrado                 |
+| **Status**         | Confirmado / Concluído / Cancelado |
 
 ---
 

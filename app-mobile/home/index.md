@@ -35,7 +35,7 @@ Toque em um petshop para ver o perfil completo.
 
 Com base no histórico do seu pet, o app sugere serviços que podem estar na hora de repetir.
 
-**Exemplo:** Se o último banho do Bolt foi há 30 dias, o app sugere: *"Está na hora do banho do Bolt! 🛁"*
+**Exemplo:** Se o último banho do Bolt foi há 30 dias, o app sugere: _"Está na hora do banho do Bolt! 🛁"_
 
 ---
 
@@ -49,10 +49,10 @@ Se você marcou petshops como favoritos ❤️, eles aparecem nessa seção para
 
 Na Home, você encontra botões de ação rápida:
 
-| Botão | Ação |
-|---|---|
-| **Agendar** | Inicia um novo agendamento |
-| **Meus pets** | Vai para a lista de pets |
+| Botão         | Ação                             |
+| ------------- | -------------------------------- |
+| **Agendar**   | Inicia um novo agendamento       |
+| **Meus pets** | Vai para a lista de pets         |
 | **Histórico** | Abre o histórico de agendamentos |
 
 ---
@@ -63,7 +63,7 @@ Na Home, você encontra botões de ação rápida:
 
 ✅ **Petshops em tempo real** — A lista de petshops é atualizada com base na sua localização atual. Se você mudar de cidade, os resultados mudam.
 
-✅ **Agendamento próximo** — Se não há agendamentos futuros, a seção é substituída por um convite: *"Que tal agendar o próximo serviço do [nome do pet]?"*
+✅ **Agendamento próximo** — Se não há agendamentos futuros, a seção é substituída por um convite: _"Que tal agendar o próximo serviço do [nome do pet]?"_
 
 ---
 

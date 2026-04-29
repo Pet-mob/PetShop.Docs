@@ -16,12 +16,12 @@ Menu lateral → **Gestão → Relatórios**
 
 ### O que mostra
 
-| Métrica | Descrição |
-|---|---|
-| **Faturamento total** | Soma de todos os serviços no período |
-| **Ticket médio** | Valor médio por atendimento |
-| **Atendimentos realizados** | Quantidade total de serviços |
-| **Crescimento** | Comparação com o mesmo período anterior (%) |
+| Métrica                     | Descrição                                   |
+| --------------------------- | ------------------------------------------- |
+| **Faturamento total**       | Soma de todos os serviços no período        |
+| **Ticket médio**            | Valor médio por atendimento                 |
+| **Atendimentos realizados** | Quantidade total de serviços                |
+| **Crescimento**             | Comparação com o mesmo período anterior (%) |
 
 ### Gráfico de faturamento
 
@@ -30,6 +30,7 @@ Exibe a evolução do faturamento dia a dia (ou semana a semana no modo mensal).
 ### Comparativo de períodos
 
 Você pode comparar dois períodos lado a lado:
+
 - Esta semana vs. semana passada
 - Este mês vs. mês passado
 - Este ano vs. ano passado
@@ -40,12 +41,12 @@ Você pode comparar dois períodos lado a lado:
 
 Mostra quais serviços geram mais receita e volume:
 
-| Coluna | Descrição |
-|---|---|
-| **Serviço** | Nome do serviço |
+| Coluna         | Descrição                          |
+| -------------- | ---------------------------------- |
+| **Serviço**    | Nome do serviço                    |
 | **Quantidade** | Vezes que foi realizado no período |
-| **Receita** | Total gerado por esse serviço |
-| **% do total** | Participação no faturamento total |
+| **Receita**    | Total gerado por esse serviço      |
+| **% do total** | Participação no faturamento total  |
 
 ::: tip Insight poderoso
 Se um serviço é muito solicitado mas tem preço baixo, pode ser hora de reajustar. Se um serviço caro é pouco solicitado, talvez precise de mais divulgação.
@@ -55,32 +56,32 @@ Se um serviço é muito solicitado mas tem preço baixo, pode ser hora de reajus
 
 ## Relatório de Clientes
 
-| Métrica | Descrição |
-|---|---|
-| **Novos clientes** | Clientes que agendaram pela primeira vez no período |
-| **Clientes recorrentes** | Clientes que já haviam agendado antes |
-| **Taxa de retorno** | % dos clientes que voltaram em 60 dias |
-| **Clientes inativos** | Clientes que não agendaram há mais de 60 dias |
+| Métrica                  | Descrição                                           |
+| ------------------------ | --------------------------------------------------- |
+| **Novos clientes**       | Clientes que agendaram pela primeira vez no período |
+| **Clientes recorrentes** | Clientes que já haviam agendado antes               |
+| **Taxa de retorno**      | % dos clientes que voltaram em 60 dias              |
+| **Clientes inativos**    | Clientes que não agendaram há mais de 60 dias       |
 
 ---
 
 ## Relatório de Funcionários (Plano Pro e Elite)
 
-| Métrica | Descrição |
-|---|---|
-| **Atendimentos por funcionário** | Ranking de produtividade |
-| **Faturamento por funcionário** | Receita gerada por cada profissional |
-| **Avaliação média** | Nota média dos clientes por funcionário |
+| Métrica                          | Descrição                               |
+| -------------------------------- | --------------------------------------- |
+| **Atendimentos por funcionário** | Ranking de produtividade                |
+| **Faturamento por funcionário**  | Receita gerada por cada profissional    |
+| **Avaliação média**              | Nota média dos clientes por funcionário |
 
 ---
 
 ## Filtros
 
-| Filtro | Opções |
-|---|---|
-| **Período** | Hoje, últimos 7 dias, último mês, últimos 3 meses, personalizado |
-| **Serviço** | Filtrar relatório por serviço específico |
-| **Funcionário** | Filtrar por profissional |
+| Filtro          | Opções                                                           |
+| --------------- | ---------------------------------------------------------------- |
+| **Período**     | Hoje, últimos 7 dias, último mês, últimos 3 meses, personalizado |
+| **Serviço**     | Filtrar relatório por serviço específico                         |
+| **Funcionário** | Filtrar por profissional                                         |
 
 ---
 
@@ -98,6 +99,7 @@ Se um serviço é muito solicitado mas tem preço baixo, pode ser hora de reajus
 ## Relatórios Avançados
 
 Acesse **Gestão → Relatórios Avançados** para análises mais detalhadas com cruzamento de dados, como:
+
 - Faturamento por período x serviço x funcionário
 - Análise de churn (clientes que pararam de vir)
 - Previsão de receita baseada em recorrência

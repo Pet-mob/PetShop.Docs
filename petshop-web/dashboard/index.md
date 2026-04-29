@@ -8,20 +8,21 @@ O Dashboard é a tela principal do painel. Ao fazer login, você é redirecionad
 
 No topo da tela, quatro cards mostram os números mais importantes do dia:
 
-| Card | O que mostra |
-|---|---|
-| **Faturamento do dia** | Soma de todos os serviços concluídos hoje |
+| Card                        | O que mostra                              |
+| --------------------------- | ----------------------------------------- |
+| **Faturamento do dia**      | Soma de todos os serviços concluídos hoje |
 | **Atendimentos realizados** | Quantidade de serviços finalizados no dia |
-| **Ticket médio** | Valor médio por atendimento hoje |
-| **Próximo agendamento** | Horário e nome do próximo cliente |
+| **Ticket médio**            | Valor médio por atendimento hoje          |
+| **Próximo agendamento**     | Horário e nome do próximo cliente         |
 
 ---
 
 ### Agendamentos pendentes de confirmação
 
-Lista os agendamentos que os clientes fizeram pelo app ou portal e que **aguardam a sua aprovação**. 
+Lista os agendamentos que os clientes fizeram pelo app ou portal e que **aguardam a sua aprovação**.
 
 Para cada agendamento pendente, você vê:
+
 - Nome do cliente e do pet
 - Serviço solicitado
 - Data e horário desejados
@@ -61,7 +62,7 @@ O Dashboard oferece atalhos para as ações mais comuns:
 
 ✅ **Notificação sonora** — Quando um novo agendamento é recebido, um sinal sonoro discreto é emitido (se o navegador tiver permissão).
 
-✅ **Zero agendamentos pendentes** — Se não houver pendências, a seção exibe a mensagem: *"Tudo em dia! Nenhum agendamento aguardando confirmação."*
+✅ **Zero agendamentos pendentes** — Se não houver pendências, a seção exibe a mensagem: _"Tudo em dia! Nenhum agendamento aguardando confirmação."_
 
 ✅ **Dia sem agendamentos** — Os KPIs exibem "R$ 0,00" e "0 atendimentos". Isso é normal em dias folga ou feriados.
 

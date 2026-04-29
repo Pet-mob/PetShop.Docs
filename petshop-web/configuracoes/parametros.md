@@ -14,9 +14,9 @@ Menu lateral → **Configurações → Parâmetros**
 
 Define quantos atendimentos podem acontecer ao mesmo tempo no seu petshop.
 
-| Configuração | Descrição |
-|---|---|
-| **Número de mesas/boxes** | Quantos pets você atende ao mesmo tempo |
+| Configuração                     | Descrição                                                    |
+| -------------------------------- | ------------------------------------------------------------ |
+| **Número de mesas/boxes**        | Quantos pets você atende ao mesmo tempo                      |
 | **Intervalo entre agendamentos** | Tempo de folga entre um atendimento e o próximo (em minutos) |
 
 **Exemplo:** Com 2 boxes e intervalo de 15 min, você pode atender 2 pets ao mesmo tempo, mas o próximo horário disponível após um encaixe é 15 minutos depois.
@@ -25,9 +25,9 @@ Define quantos atendimentos podem acontecer ao mesmo tempo no seu petshop.
 
 ### Confirmação de agendamentos
 
-| Opção | Descrição |
-|---|---|
-| **Confirmação manual** | Cada agendamento precisa ser aprovado por você antes de entrar na agenda |
+| Opção                      | Descrição                                                                      |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| **Confirmação manual**     | Cada agendamento precisa ser aprovado por você antes de entrar na agenda       |
 | **Confirmação automática** | Agendamentos são confirmados instantaneamente sem precisar de aprovação manual |
 
 ::: tip
@@ -40,11 +40,11 @@ Define quantos atendimentos podem acontecer ao mesmo tempo no seu petshop.
 
 Define com quantas horas de antecedência mínima um cliente pode agendar:
 
-| Configuração | Exemplo |
-|---|---|
-| 2 horas | Cliente pode agendar para daqui a 2 horas |
-| 24 horas | Somente para o próximo dia |
-| 48 horas | Mínimo 2 dias de antecedência |
+| Configuração | Exemplo                                   |
+| ------------ | ----------------------------------------- |
+| 2 horas      | Cliente pode agendar para daqui a 2 horas |
+| 24 horas     | Somente para o próximo dia                |
+| 48 horas     | Mínimo 2 dias de antecedência             |
 
 ---
 
@@ -52,10 +52,10 @@ Define com quantas horas de antecedência mínima um cliente pode agendar:
 
 Define com quantos dias no futuro o cliente pode agendar:
 
-| Opção | Resultado |
-|---|---|
-| 7 dias | Agenda disponível para a próxima semana |
-| 30 dias | Agenda disponível para o próximo mês |
+| Opção   | Resultado                                  |
+| ------- | ------------------------------------------ |
+| 7 dias  | Agenda disponível para a próxima semana    |
+| 30 dias | Agenda disponível para o próximo mês       |
 | 60 dias | Agenda disponível para os próximos 2 meses |
 
 ---
@@ -64,10 +64,10 @@ Define com quantos dias no futuro o cliente pode agendar:
 
 Define até quando o cliente pode cancelar sem penalidade:
 
-| Configuração | Descrição |
-|---|---|
-| **Prazo de cancelamento** | Ex: até 4 horas antes do agendamento |
-| **Aceitar cancelamento após o prazo** | Sim/Não |
+| Configuração                          | Descrição                            |
+| ------------------------------------- | ------------------------------------ |
+| **Prazo de cancelamento**             | Ex: até 4 horas antes do agendamento |
+| **Aceitar cancelamento após o prazo** | Sim/Não                              |
 
 ---
 
@@ -75,12 +75,12 @@ Define até quando o cliente pode cancelar sem penalidade:
 
 Configure as regras do programa de pontos (se ativo nos planos Pro e Elite):
 
-| Parâmetro | Exemplo |
-|---|---|
-| **Pontos por real gasto** | 1 ponto por R$1,00 |
+| Parâmetro                     | Exemplo              |
+| ----------------------------- | -------------------- |
+| **Pontos por real gasto**     | 1 ponto por R$1,00   |
 | **Valor do ponto no resgate** | 100 pontos = R$10,00 |
-| **Mínimo para resgate** | 200 pontos |
-| **Validade dos pontos** | 12 meses |
+| **Mínimo para resgate**       | 200 pontos           |
+| **Validade dos pontos**       | 12 meses             |
 
 ---
 

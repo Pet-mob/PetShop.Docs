@@ -27,10 +27,10 @@ Quando um cliente abre o app PetMob e busca petshops na sua região, os resultad
 
 1. Na tela de Boost, selecione o **pacote desejado**:
 
-| Pacote | Duração | Alcance |
-|---|---|---|
-| **Básico** | 7 dias | Destaque regional |
-| **Padrão** | 15 dias | Destaque + seção recomendados |
+| Pacote      | Duração | Alcance                                               |
+| ----------- | ------- | ----------------------------------------------------- |
+| **Básico**  | 7 dias  | Destaque regional                                     |
+| **Padrão**  | 15 dias | Destaque + seção recomendados                         |
 | **Premium** | 30 dias | Destaque máximo + notificações para clientes próximos |
 
 2. Confirme o pacote
@@ -43,12 +43,12 @@ Quando um cliente abre o app PetMob e busca petshops na sua região, os resultad
 
 Enquanto o Boost estiver ativo, a tela exibe métricas em tempo real:
 
-| Métrica | Descrição |
-|---|---|
-| **Visualizações** | Quantas vezes seu perfil foi acessado pelo app |
+| Métrica                  | Descrição                                                    |
+| ------------------------ | ------------------------------------------------------------ |
+| **Visualizações**        | Quantas vezes seu perfil foi acessado pelo app               |
 | **Agendamentos gerados** | Agendamentos que vieram de clientes que acessaram pelo boost |
-| **Taxa de conversão** | % de visualizações que viraram agendamento |
-| **Dias restantes** | Quanto tempo ainda resta do boost |
+| **Taxa de conversão**    | % de visualizações que viraram agendamento                   |
+| **Dias restantes**       | Quanto tempo ainda resta do boost                            |
 
 ---
 
@@ -65,11 +65,12 @@ Enquanto o Boost estiver ativo, a tela exibe métricas em tempo real:
 ## Quando vale a pena usar o Boost?
 
 ::: tip Momentos ideais para o Boost
+
 - **Abertura** — Nos primeiros meses, para ganhar visibilidade e os primeiros clientes
 - **Baixa temporada** — Para manter o movimento em períodos menos movimentados
 - **Datas comemorativas** — Dia dos Animais, Natal, férias escolares
 - **Após melhorias** — Quando você reformou o espaço ou contratou novos serviços
-:::
+  :::
 
 ---
 

@@ -13,22 +13,22 @@ Menu lateral → **Configurações → Serviços e Preços**
 1. Clique em **"+ Adicionar serviço"**
 2. Preencha os dados:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome do serviço** | ✅ Sim | Ex: "Banho e Tosa", "Banho Simples", "Tosa Higiênica" |
-| **Descrição** | ❌ Não | Texto que aparece para o cliente no app |
-| **Duração** | ✅ Sim | Tempo estimado para realizar o serviço |
-| **Ativo** | ✅ Sim | Se aparece no app ou não |
+| Campo               | Obrigatório | Descrição                                             |
+| ------------------- | ----------- | ----------------------------------------------------- |
+| **Nome do serviço** | ✅ Sim      | Ex: "Banho e Tosa", "Banho Simples", "Tosa Higiênica" |
+| **Descrição**       | ❌ Não      | Texto que aparece para o cliente no app               |
+| **Duração**         | ✅ Sim      | Tempo estimado para realizar o serviço                |
+| **Ativo**           | ✅ Sim      | Se aparece no app ou não                              |
 
 ### Preço por porte
 
 Você pode definir preços diferentes por porte de pet:
 
-| Porte | Como preencher |
-|---|---|
-| **Pequeno** | Pets até 10kg |
-| **Médio** | Pets de 10 a 20kg |
-| **Grande** | Pets acima de 20kg |
+| Porte               | Como preencher                             |
+| ------------------- | ------------------------------------------ |
+| **Pequeno**         | Pets até 10kg                              |
+| **Médio**           | Pets de 10 a 20kg                          |
+| **Grande**          | Pets acima de 20kg                         |
 | **Todos os portes** | Se o preço é único independente do tamanho |
 
 ::: tip
@@ -43,13 +43,13 @@ Se você cobra preços diferentes por porte, o app mostra automaticamente o pre�
 
 A lista exibe todos os serviços cadastrados:
 
-| Coluna | Descrição |
-|---|---|
-| **Serviço** | Nome e descrição |
-| **Duração** | Tempo estimado |
-| **Preço** | Por porte (P/M/G) ou preço único |
-| **Agendamentos** | Quantas vezes foi contratado |
-| **Status** | Ativo / Inativo |
+| Coluna           | Descrição                        |
+| ---------------- | -------------------------------- |
+| **Serviço**      | Nome e descrição                 |
+| **Duração**      | Tempo estimado                   |
+| **Preço**        | Por porte (P/M/G) ou preço único |
+| **Agendamentos** | Quantas vezes foi contratado     |
+| **Status**       | Ativo / Inativo                  |
 
 ---
 
@@ -74,17 +74,17 @@ Use a desativação quando um serviço estiver temporariamente indisponível (ex
 
 ## Sugestões de serviços comuns
 
-| Serviço | Variação |
-|---|---|
-| Banho simples | Por porte |
-| Banho e tosa | Por porte e tipo de raça |
-| Tosa higiênica | Por porte |
-| Tosa completa | Por porte |
-| Hidratação | Por porte |
-| Limpeza de ouvido | Preço único |
-| Corte de unhas | Preço único |
-| Escovação | Por porte |
-| Perfumaria | Por porte |
+| Serviço              | Variação                   |
+| -------------------- | -------------------------- |
+| Banho simples        | Por porte                  |
+| Banho e tosa         | Por porte e tipo de raça   |
+| Tosa higiênica       | Por porte                  |
+| Tosa completa        | Por porte                  |
+| Hidratação           | Por porte                  |
+| Limpeza de ouvido    | Preço único                |
+| Corte de unhas       | Preço único                |
+| Escovação            | Por porte                  |
+| Perfumaria           | Por porte                  |
 | Consulta veterinária | Preço único (se aplicável) |
 
 ---

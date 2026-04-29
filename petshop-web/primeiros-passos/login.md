@@ -10,10 +10,10 @@ Acesse **https://petshop.petmob.com.br** no navegador. A tela de login é exibid
 
 ## Campos
 
-| Campo | Descrição |
-|---|---|
+| Campo      | Descrição                                  |
+| ---------- | ------------------------------------------ |
 | **E-mail** | O e-mail cadastrado no momento do registro |
-| **Senha** | Sua senha de acesso |
+| **Senha**  | Sua senha de acesso                        |
 
 ---
 
@@ -32,7 +32,7 @@ Acesse **https://petshop.petmob.com.br** no navegador. A tela de login é exibid
 
 ✅ **Sessão mantida** — Você permanece logado enquanto não sair manualmente. Ao fechar e reabrir o navegador, a sessão é restaurada automaticamente.
 
-⚠️ **Credenciais inválidas** — O sistema exibe a mensagem: *"E-mail ou senha incorretos."* A senha não é revelada por segurança.
+⚠️ **Credenciais inválidas** — O sistema exibe a mensagem: _"E-mail ou senha incorretos."_ A senha não é revelada por segurança.
 
 ⚠️ **Muitas tentativas** — Após 5 tentativas incorretas, o acesso é temporariamente bloqueado por 15 minutos por segurança.
 

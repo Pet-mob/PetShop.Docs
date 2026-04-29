@@ -14,12 +14,12 @@ Menu lateral → **Configurações → Contrato**
 
 Se o contrato já foi assinado, a tela exibe:
 
-| Informação | Descrição |
-|---|---|
-| **Status** | "Contrato assinado digitalmente ✓" |
-| **Aceito em** | Data e horário do aceite |
-| **Versão do contrato** | Versão do documento aceito (ex: v2.1) |
-| **IP de origem** | Endereço IP usado no momento do aceite |
+| Informação             | Descrição                              |
+| ---------------------- | -------------------------------------- |
+| **Status**             | "Contrato assinado digitalmente ✓"     |
+| **Aceito em**          | Data e horário do aceite               |
+| **Versão do contrato** | Versão do documento aceito (ex: v2.1)  |
+| **IP de origem**       | Endereço IP usado no momento do aceite |
 
 ::: info Validade jurídica
 O aceite eletrônico tem **validade jurídica** nos termos da MP 2.200-2/2001 e do Marco Civil da Internet (Lei 12.965/2014). O registro do IP e da data/hora comprova o aceite.

@@ -17,26 +17,26 @@ Acesse **Perfil → Meus Pets** e toque em **"+ Adicionar pet"**
 
 ### Dados do pet
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome** | ✅ Sim | Nome do pet como você chama |
-| **Espécie** | ✅ Sim | Cão ou Gato |
-| **Raça** | ✅ Sim | Se não sabe, selecione "Sem raça definida (SRD)" |
-| **Porte** | ✅ Sim | Pequeno, Médio ou Grande |
-| **Sexo** | ✅ Sim | Macho / Fêmea |
-| **Data de nascimento** | ❌ Não | Para calcular a idade automaticamente |
-| **Pelagem** | ❌ Não | Curta, Média ou Longa |
-| **Cor** | ❌ Não | |
-| **Foto do pet** | ❌ Não | Facilita a identificação no petshop |
+| Campo                  | Obrigatório | Descrição                                        |
+| ---------------------- | ----------- | ------------------------------------------------ |
+| **Nome**               | ✅ Sim      | Nome do pet como você chama                      |
+| **Espécie**            | ✅ Sim      | Cão ou Gato                                      |
+| **Raça**               | ✅ Sim      | Se não sabe, selecione "Sem raça definida (SRD)" |
+| **Porte**              | ✅ Sim      | Pequeno, Médio ou Grande                         |
+| **Sexo**               | ✅ Sim      | Macho / Fêmea                                    |
+| **Data de nascimento** | ❌ Não      | Para calcular a idade automaticamente            |
+| **Pelagem**            | ❌ Não      | Curta, Média ou Longa                            |
+| **Cor**                | ❌ Não      |                                                  |
+| **Foto do pet**        | ❌ Não      | Facilita a identificação no petshop              |
 
 ### Informações de saúde
 
-| Campo | Descrição |
-|---|---|
-| **Alergias** | Ingredientes ou produtos que causam reação |
-| **Medicamentos em uso** | Se o pet toma algum medicamento |
+| Campo                   | Descrição                                      |
+| ----------------------- | ---------------------------------------------- |
+| **Alergias**            | Ingredientes ou produtos que causam reação     |
+| **Medicamentos em uso** | Se o pet toma algum medicamento                |
 | **Condições especiais** | Comportamento, restrições de manipulação, etc. |
-| **Castrado** | Sim / Não |
+| **Castrado**            | Sim / Não                                      |
 
 ::: warning Informações de saúde importantes
 Sempre preencha alergias e condições especiais. Essas informações aparecem para o profissional antes e durante o atendimento, garantindo a segurança do seu pet.
@@ -49,6 +49,7 @@ Sempre preencha alergias e condições especiais. Essas informações aparecem p
 Adicionar uma foto ajuda o petshop a identificar seu pet rapidamente na chegada.
 
 **Como adicionar foto:**
+
 1. Toque no círculo de foto no topo do formulário
 2. Escolha **"Tirar foto"** ou **"Escolher da galeria"**
 3. Ajuste o enquadramento se necessário
@@ -59,6 +60,7 @@ Adicionar uma foto ajuda o petshop a identificar seu pet rapidamente na chegada.
 ## Editando as informações do pet
 
 Para editar:
+
 1. Acesse **Perfil → Meus Pets**
 2. Toque no pet que deseja editar
 3. Toque no ícone de edição (lápis) no canto superior

@@ -11,11 +11,13 @@ Menu lateral → **Configurações → Assinatura e Planos**
 ## Planos disponíveis
 
 ### 🥉 Starter — R$ 97/mês
-*(ou R$ 78/mês no plano anual — 20% de desconto)*
+
+_(ou R$ 78/mês no plano anual — 20% de desconto)_
 
 **Ideal para:** Petshops que estão começando e querem organizar a agenda de forma profissional.
 
 **Inclui:**
+
 - Dashboard com KPIs do dia
 - Agenda interativa e confirmação de agendamentos
 - Configuração de serviços e preços
@@ -27,11 +29,13 @@ Menu lateral → **Configurações → Assinatura e Planos**
 ---
 
 ### 🥈 Pro — R$ 297/mês
-*(ou R$ 238/mês no plano anual — 20% de desconto)*
+
+_(ou R$ 238/mês no plano anual — 20% de desconto)_
 
 **Ideal para:** Petshops em crescimento que querem gestão completa e ferramentas de retenção de clientes.
 
 **Inclui tudo do Starter, mais:**
+
 - Acompanhamento em tempo real do atendimento
 - Histórico de clientes e pets
 - Avaliações e respostas públicas
@@ -50,11 +54,13 @@ Menu lateral → **Configurações → Assinatura e Planos**
 ---
 
 ### 🥇 Elite — R$ 597/mês
-*(ou R$ 478/mês no plano anual — 20% de desconto)*
+
+_(ou R$ 478/mês no plano anual — 20% de desconto)_
 
 **Ideal para:** Redes de petshops, franquias ou estabelecimentos que precisam de gestão avançada e diferenciação no marketplace.
 
 **Inclui tudo do Pro, mais:**
+
 - **Multi-unidade** — gerencie várias unidades em um único painel
 - **API de Integração** — conecte a PetMob com outros sistemas
 - **Destaque Premium no Marketplace** — apareça em primeiro nos resultados do app
@@ -91,12 +97,12 @@ Após o upgrade, as novas funcionalidades ficam disponíveis imediatamente — s
 
 ## Gerenciando o pagamento
 
-| Ação | Como fazer |
-|---|---|
-| **Ver próxima cobrança** | Data e valor exibidos no topo da página |
-| **Atualizar cartão** | Clique em "Atualizar método de pagamento" |
-| **Ver histórico de faturas** | Clique em "Histórico de pagamentos" |
-| **Baixar nota fiscal** | Na lista de faturas, clique em "Download" |
+| Ação                         | Como fazer                                |
+| ---------------------------- | ----------------------------------------- |
+| **Ver próxima cobrança**     | Data e valor exibidos no topo da página   |
+| **Atualizar cartão**         | Clique em "Atualizar método de pagamento" |
+| **Ver histórico de faturas** | Clique em "Histórico de pagamentos"       |
+| **Baixar nota fiscal**       | Na lista de faturas, clique em "Download" |
 
 ---
 

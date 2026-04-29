@@ -4,15 +4,15 @@ Bem-vindo ao guia do **Painel PetMob para Petshops**. Esta plataforma foi desenv
 
 ## O que você consegue fazer aqui
 
-| Módulo | O que faz |
-|---|---|
-| **Dashboard** | Visualiza faturamento do dia, serviços realizados e próximos agendamentos |
-| **Agenda** | Gerencia todos os agendamentos no calendário interativo |
-| **Confirmações** | Aprova ou recusa solicitações de clientes |
-| **Acompanhamento** | Atualiza o status do pet em tempo real durante o atendimento |
-| **Clientes** | Acessa histórico, avaliações e programa de fidelidade |
-| **Gestão** | Controla funcionários, estoque, relatórios, combos e cupons |
-| **Configurações** | Define serviços, preços, horários, link de agendamento e plano |
+| Módulo             | O que faz                                                                 |
+| ------------------ | ------------------------------------------------------------------------- |
+| **Dashboard**      | Visualiza faturamento do dia, serviços realizados e próximos agendamentos |
+| **Agenda**         | Gerencia todos os agendamentos no calendário interativo                   |
+| **Confirmações**   | Aprova ou recusa solicitações de clientes                                 |
+| **Acompanhamento** | Atualiza o status do pet em tempo real durante o atendimento              |
+| **Clientes**       | Acessa histórico, avaliações e programa de fidelidade                     |
+| **Gestão**         | Controla funcionários, estoque, relatórios, combos e cupons               |
+| **Configurações**  | Define serviços, preços, horários, link de agendamento e plano            |
 
 ## Navegação
 
@@ -26,29 +26,29 @@ Acesse seu painel em: **https://petshop.petmob.com.br**
 
 Algumas funcionalidades estão disponíveis apenas em planos específicos:
 
-| Funcionalidade | Starter | Pro | Elite |
-|---|---|---|---|
-| Dashboard | ✅ | ✅ | ✅ |
-| Agenda e Confirmações | ✅ | ✅ | ✅ |
-| Serviços e Configurações | ✅ | ✅ | ✅ |
-| Notificações Push | ✅ | ✅ | ✅ |
-| Portal do Tutor | ✅ | ✅ | ✅ |
-| Acompanhamento em Tempo Real | ❌ | ✅ | ✅ |
-| Histórico de Clientes | ❌ | ✅ | ✅ |
-| Avaliações | ❌ | ✅ | ✅ |
-| Programa de Fidelidade | ❌ | ✅ | ✅ |
-| Funcionários | ❌ | ✅ | ✅ |
-| Relatórios Básicos | ❌ | ✅ | ✅ |
-| Estoque | ❌ | ✅ | ✅ |
-| Cupons e Promoções | ❌ | ✅ | ✅ |
-| WhatsApp Automático | ❌ | ✅ | ✅ |
-| Agendamento Manual | ❌ | ✅ | ✅ |
-| Multi-unidade | ❌ | ❌ | ✅ |
-| API de Integração | ❌ | ❌ | ✅ |
-| Destaque Premium (Marketplace) | ❌ | ❌ | ✅ |
-| Relatórios Avançados | ❌ | ❌ | ✅ |
-| Suporte Prioritário | ❌ | ❌ | ✅ |
-| Usuários ilimitados | ❌ | ❌ | ✅ |
+| Funcionalidade                 | Starter | Pro | Elite |
+| ------------------------------ | ------- | --- | ----- |
+| Dashboard                      | ✅      | ✅  | ✅    |
+| Agenda e Confirmações          | ✅      | ✅  | ✅    |
+| Serviços e Configurações       | ✅      | ✅  | ✅    |
+| Notificações Push              | ✅      | ✅  | ✅    |
+| Portal do Tutor                | ✅      | ✅  | ✅    |
+| Acompanhamento em Tempo Real   | ❌      | ✅  | ✅    |
+| Histórico de Clientes          | ❌      | ✅  | ✅    |
+| Avaliações                     | ❌      | ✅  | ✅    |
+| Programa de Fidelidade         | ❌      | ✅  | ✅    |
+| Funcionários                   | ❌      | ✅  | ✅    |
+| Relatórios Básicos             | ❌      | ✅  | ✅    |
+| Estoque                        | ❌      | ✅  | ✅    |
+| Cupons e Promoções             | ❌      | ✅  | ✅    |
+| WhatsApp Automático            | ❌      | ✅  | ✅    |
+| Agendamento Manual             | ❌      | ✅  | ✅    |
+| Multi-unidade                  | ❌      | ❌  | ✅    |
+| API de Integração              | ❌      | ❌  | ✅    |
+| Destaque Premium (Marketplace) | ❌      | ❌  | ✅    |
+| Relatórios Avançados           | ❌      | ❌  | ✅    |
+| Suporte Prioritário            | ❌      | ❌  | ✅    |
+| Usuários ilimitados            | ❌      | ❌  | ✅    |
 
 ::: tip Quer fazer upgrade?
 Acesse **Configurações → Assinatura e Planos** para ver as opções e fazer upgrade a qualquer momento.

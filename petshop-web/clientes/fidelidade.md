@@ -27,12 +27,12 @@ O sistema é simples para o cliente e poderoso para você:
 
 Acesse **Configurações → Parâmetros** para definir:
 
-| Configuração | Exemplo |
-|---|---|
-| Pontos por real gasto | A cada R$ 1,00 = 1 ponto |
+| Configuração                   | Exemplo                           |
+| ------------------------------ | --------------------------------- |
+| Pontos por real gasto          | A cada R$ 1,00 = 1 ponto          |
 | Valor de cada ponto no resgate | 100 pontos = R$ 10,00 de desconto |
-| Mínimo para resgate | 500 pontos |
-| Validade dos pontos | 12 meses sem uso |
+| Mínimo para resgate            | 500 pontos                        |
+| Validade dos pontos            | 12 meses sem uso                  |
 
 ---
 
@@ -40,12 +40,12 @@ Acesse **Configurações → Parâmetros** para definir:
 
 A tela exibe:
 
-| Card | O que mostra |
-|---|---|
-| **Total de participantes** | Clientes com pontos ativos |
-| **Pontos distribuídos** | Total de pontos acumulados por todos os clientes |
-| **Resgates realizados** | Quantidade e valor total de descontos concedidos |
-| **Pontos a vencer** | Pontos que vencerão nos próximos 30 dias |
+| Card                       | O que mostra                                     |
+| -------------------------- | ------------------------------------------------ |
+| **Total de participantes** | Clientes com pontos ativos                       |
+| **Pontos distribuídos**    | Total de pontos acumulados por todos os clientes |
+| **Resgates realizados**    | Quantidade e valor total de descontos concedidos |
+| **Pontos a vencer**        | Pontos que vencerão nos próximos 30 dias         |
 
 ---
 
@@ -53,14 +53,14 @@ A tela exibe:
 
 A lista mostra todos os clientes com pontos ativos, ordenados por saldo:
 
-| Coluna | Descrição |
-|---|---|
-| **Cliente** | Nome e foto do cliente |
-| **Pet(s)** | Pets cadastrados |
-| **Saldo atual** | Pontos disponíveis para resgate |
-| **Total acumulado** | Total histórico de pontos (inclui já resgatados) |
-| **Último atendimento** | Data da última visita |
-| **Próximo vencimento** | Data em que os pontos mais antigos vencem |
+| Coluna                 | Descrição                                        |
+| ---------------------- | ------------------------------------------------ |
+| **Cliente**            | Nome e foto do cliente                           |
+| **Pet(s)**             | Pets cadastrados                                 |
+| **Saldo atual**        | Pontos disponíveis para resgate                  |
+| **Total acumulado**    | Total histórico de pontos (inclui já resgatados) |
+| **Último atendimento** | Data da última visita                            |
+| **Próximo vencimento** | Data em que os pontos mais antigos vencem        |
 
 ---
 
@@ -74,7 +74,7 @@ Em casos excepcionais (ex: cortesia, recuperação de cliente insatisfeito), voc
 4. Escreva o motivo (campo obrigatório)
 5. Confirme
 
-O cliente recebe uma notificação no app: *"Você ganhou X pontos de fidelidade! 🎁"*
+O cliente recebe uma notificação no app: _"Você ganhou X pontos de fidelidade! 🎁"_
 
 ---
 

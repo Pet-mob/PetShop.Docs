@@ -14,26 +14,26 @@ Acesse **https://petshop.petmob.com.br** e clique em **"Criar conta"** na tela d
 
 Preencha os dados do seu petshop:
 
-| Campo | Obrigatório | O que preencher |
-|---|---|---|
-| **Nome do Petshop** | ✅ Sim | Nome fantasia, como aparecerá para os clientes |
-| **CNPJ** | ✅ Sim | Apenas números, sem pontos ou traços |
-| **E-mail** | ✅ Sim | E-mail para login e comunicações |
-| **Telefone** | ✅ Sim | WhatsApp ou telefone principal |
-| **Senha** | ✅ Sim | Mínimo 8 caracteres |
-| **Confirmar senha** | ✅ Sim | Deve ser igual ao campo senha |
+| Campo               | Obrigatório | O que preencher                                |
+| ------------------- | ----------- | ---------------------------------------------- |
+| **Nome do Petshop** | ✅ Sim      | Nome fantasia, como aparecerá para os clientes |
+| **CNPJ**            | ✅ Sim      | Apenas números, sem pontos ou traços           |
+| **E-mail**          | ✅ Sim      | E-mail para login e comunicações               |
+| **Telefone**        | ✅ Sim      | WhatsApp ou telefone principal                 |
+| **Senha**           | ✅ Sim      | Mínimo 8 caracteres                            |
+| **Confirmar senha** | ✅ Sim      | Deve ser igual ao campo senha                  |
 
 ### 2. Endereço
 
-| Campo | Obrigatório | Observação |
-|---|---|---|
-| **CEP** | ✅ Sim | Ao digitar o CEP, os demais campos são preenchidos automaticamente |
-| **Rua** | ✅ Sim | |
-| **Número** | ✅ Sim | |
-| **Complemento** | ❌ Não | Ex: Sala 2, Loja 3 |
-| **Bairro** | ✅ Sim | |
-| **Cidade** | ✅ Sim | |
-| **Estado** | ✅ Sim | |
+| Campo           | Obrigatório | Observação                                                         |
+| --------------- | ----------- | ------------------------------------------------------------------ |
+| **CEP**         | ✅ Sim      | Ao digitar o CEP, os demais campos são preenchidos automaticamente |
+| **Rua**         | ✅ Sim      |                                                                    |
+| **Número**      | ✅ Sim      |                                                                    |
+| **Complemento** | ❌ Não      | Ex: Sala 2, Loja 3                                                 |
+| **Bairro**      | ✅ Sim      |                                                                    |
+| **Cidade**      | ✅ Sim      |                                                                    |
+| **Estado**      | ✅ Sim      |                                                                    |
 
 ### 3. Confirmar cadastro
 

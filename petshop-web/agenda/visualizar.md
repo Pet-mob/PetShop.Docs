@@ -12,11 +12,11 @@ Menu lateral → **Agenda**
 
 Você pode alternar entre três visões do calendário usando os botões no canto superior direito:
 
-| Visão | O que mostra |
-|---|---|
-| **Dia** | Todos os agendamentos do dia selecionado, organizados por horário |
-| **Semana** | Visão semanal com todos os atendimentos da semana |
-| **Mês** | Visão mensal com indicadores de quantidade por dia |
+| Visão      | O que mostra                                                      |
+| ---------- | ----------------------------------------------------------------- |
+| **Dia**    | Todos os agendamentos do dia selecionado, organizados por horário |
+| **Semana** | Visão semanal com todos os atendimentos da semana                 |
+| **Mês**    | Visão mensal com indicadores de quantidade por dia                |
 
 ---
 

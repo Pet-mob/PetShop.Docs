@@ -10,10 +10,10 @@ Menu lateral → **Configurações → Fale Conosco**
 
 ## Canais de atendimento
 
-| Canal | Contato | Horário |
-|---|---|---|
-| 📱 **WhatsApp** | (16) 99167-1750 | Seg a Sex: 8h–18h |
-| 📧 **E-mail** | suporte@petmob.com.br | Resposta em até 24h úteis |
+| Canal           | Contato               | Horário                   |
+| --------------- | --------------------- | ------------------------- |
+| 📱 **WhatsApp** | (16) 99167-1750       | Seg a Sex: 8h–18h         |
+| 📧 **E-mail**   | suporte@petmob.com.br | Resposta em até 24h úteis |
 
 ::: tip Atendimento mais rápido
 Para resolução imediata, use o **WhatsApp**. Para problemas complexos que exigem análise detalhada, prefira o **e-mail** com descrição completa do problema e prints de tela.
@@ -24,12 +24,14 @@ Para resolução imediata, use o **WhatsApp**. Para problemas complexos que exig
 ## Quando usar cada canal
 
 ### WhatsApp — para situações urgentes
+
 - Dificuldade de acesso ao sistema
 - Agendamento não aparecendo na agenda
 - Erro durante o atendimento de um cliente
 - Dúvidas rápidas sobre uso de funcionalidades
 
 ### E-mail — para situações que precisam de análise
+
 - Relatar bug com evidências (prints/vídeos)
 - Solicitar novas funcionalidades
 - Questões sobre cobrança e fatura
@@ -52,12 +54,12 @@ Para agilizar o atendimento, informe:
 
 ## Política de resposta
 
-| Gravidade | Tempo de resposta |
-|---|---|
-| **Crítico** — sistema fora do ar, perda de dados | Até 4h (dias úteis) |
-| **Alto** — funcionalidade principal indisponível | Até 8h (dias úteis) |
-| **Médio** — bug sem perda de dados | Até 24h (dias úteis) |
-| **Baixo** — dúvida ou sugestão | Até 48h (dias úteis) |
+| Gravidade                                        | Tempo de resposta    |
+| ------------------------------------------------ | -------------------- |
+| **Crítico** — sistema fora do ar, perda de dados | Até 4h (dias úteis)  |
+| **Alto** — funcionalidade principal indisponível | Até 8h (dias úteis)  |
+| **Médio** — bug sem perda de dados               | Até 24h (dias úteis) |
+| **Baixo** — dúvida ou sugestão                   | Até 48h (dias úteis) |
 
 ::: info Plano Elite — Suporte Prioritário
 Petshops no plano Elite têm **suporte prioritário** com tempo de resposta reduzido e atendimento dedicado.

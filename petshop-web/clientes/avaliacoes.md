@@ -21,6 +21,7 @@ Após cada atendimento concluído, o app PetMob envia automaticamente uma solici
 3. Marcar aspectos positivos (ex: pontualidade, qualidade, atendimento)
 
 Essa avaliação aparece:
+
 - Na tela de Avaliações do seu painel
 - No **perfil público** do seu petshop no app (visível para outros clientes)
 - No **ranking de busca** — petshops com mais avaliações e maior nota aparecem em destaque
@@ -39,14 +40,14 @@ Essa avaliação aparece:
 
 Cada avaliação mostra:
 
-| Campo | Descrição |
-|---|---|
-| **Nota** | De 1 a 5 estrelas |
-| **Cliente** | Nome do tutor |
-| **Pet** | Nome do pet avaliado |
-| **Serviço** | Qual serviço foi avaliado |
-| **Data** | Quando a avaliação foi feita |
-| **Comentário** | Texto escrito pelo cliente |
+| Campo            | Descrição                            |
+| ---------------- | ------------------------------------ |
+| **Nota**         | De 1 a 5 estrelas                    |
+| **Cliente**      | Nome do tutor                        |
+| **Pet**          | Nome do pet avaliado                 |
+| **Serviço**      | Qual serviço foi avaliado            |
+| **Data**         | Quando a avaliação foi feita         |
+| **Comentário**   | Texto escrito pelo cliente           |
 | **Sua resposta** | Resposta que você enviou (se houver) |
 
 ---
@@ -70,11 +71,11 @@ Responda tanto as avaliações positivas (agradecendo) quanto as negativas (expl
 
 ## Filtros disponíveis
 
-| Filtro | Opções |
-|---|---|
-| **Período** | Última semana, último mês, últimos 3 meses, personalizado |
-| **Nota** | 1 estrela, 2 estrelas, ..., 5 estrelas |
-| **Respondidas** | Sim / Não |
+| Filtro          | Opções                                                    |
+| --------------- | --------------------------------------------------------- |
+| **Período**     | Última semana, último mês, últimos 3 meses, personalizado |
+| **Nota**        | 1 estrela, 2 estrelas, ..., 5 estrelas                    |
+| **Respondidas** | Sim / Não                                                 |
 
 ---
 

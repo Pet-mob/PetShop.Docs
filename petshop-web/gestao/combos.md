@@ -17,6 +17,7 @@ Menu lateral → **Gestão → Combos**
 Você cria um combo agrupando dois ou mais serviços do seu catálogo e define um preço especial para o conjunto. O desconto é calculado automaticamente na comparação com os preços individuais.
 
 **Exemplo:**
+
 > **Combo Banho + Tosa = R$ 80,00**
 > (Banho R$ 50 + Tosa R$ 45 separados = R$ 95 → economia de R$ 15 = 16% de desconto)
 
@@ -27,14 +28,14 @@ Você cria um combo agrupando dois ou mais serviços do seu catálogo e define u
 1. Clique em **"+ Criar combo"**
 2. Preencha:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome do combo** | ✅ Sim | Ex: "Combo Completo", "Combo Filhote" |
-| **Descrição** | ❌ Não | Texto explicativo que aparece no app |
-| **Serviços incluídos** | ✅ Sim | Selecione 2 ou mais serviços do catálogo |
-| **Porte aplicável** | ✅ Sim | Pequeno, Médio, Grande ou Todos |
-| **Preço do combo** | ✅ Sim | Valor final cobrado pelo pacote |
-| **Ativo** | ✅ Sim | Se deve aparecer no app imediatamente |
+| Campo                  | Obrigatório | Descrição                                |
+| ---------------------- | ----------- | ---------------------------------------- |
+| **Nome do combo**      | ✅ Sim      | Ex: "Combo Completo", "Combo Filhote"    |
+| **Descrição**          | ❌ Não      | Texto explicativo que aparece no app     |
+| **Serviços incluídos** | ✅ Sim      | Selecione 2 ou mais serviços do catálogo |
+| **Porte aplicável**    | ✅ Sim      | Pequeno, Médio, Grande ou Todos          |
+| **Preço do combo**     | ✅ Sim      | Valor final cobrado pelo pacote          |
+| **Ativo**              | ✅ Sim      | Se deve aparecer no app imediatamente    |
 
 3. Clique em **"Salvar combo"**
 
@@ -44,14 +45,14 @@ Você cria um combo agrupando dois ou mais serviços do seu catálogo e define u
 
 A lista de combos exibe todos os pacotes criados:
 
-| Coluna | Descrição |
-|---|---|
-| **Nome** | Nome do combo |
-| **Serviços** | Quais serviços fazem parte |
-| **Preço** | Valor do combo |
-| **Economia** | % de desconto em relação aos preços individuais |
-| **Agendamentos** | Quantas vezes esse combo foi contratado |
-| **Status** | Ativo / Inativo |
+| Coluna           | Descrição                                       |
+| ---------------- | ----------------------------------------------- |
+| **Nome**         | Nome do combo                                   |
+| **Serviços**     | Quais serviços fazem parte                      |
+| **Preço**        | Valor do combo                                  |
+| **Economia**     | % de desconto em relação aos preços individuais |
+| **Agendamentos** | Quantas vezes esse combo foi contratado         |
+| **Status**       | Ativo / Inativo                                 |
 
 ---
 

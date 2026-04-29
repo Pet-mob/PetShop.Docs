@@ -26,13 +26,13 @@ Você pode comparar seu próprio petshop com um concorrente para identificar opo
 
 ## Critérios comparados
 
-| Critério | Descrição |
-|---|---|
-| **Avaliação Média** | Nota média das avaliações dos tutores (0–5 ⭐) |
-| **Nº de Avaliações** | Total de avaliações recebidas |
-| **Total de Agendamentos** | Agendamentos realizados na plataforma |
-| **Serviços Cadastrados** | Quantidade de serviços no cardápio |
-| **Tempo Médio de Resposta** | Média de tempo para confirmar agendamentos |
+| Critério                    | Descrição                                      |
+| --------------------------- | ---------------------------------------------- |
+| **Avaliação Média**         | Nota média das avaliações dos tutores (0–5 ⭐) |
+| **Nº de Avaliações**        | Total de avaliações recebidas                  |
+| **Total de Agendamentos**   | Agendamentos realizados na plataforma          |
+| **Serviços Cadastrados**    | Quantidade de serviços no cardápio             |
+| **Tempo Médio de Resposta** | Média de tempo para confirmar agendamentos     |
 
 O critério melhor entre os dois é destacado em verde. O pior é destacado em vermelho.
 

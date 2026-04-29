@@ -22,17 +22,17 @@ Tudo em menos de 3 minutos, sem cadastro.
 
 ## Seções do portal
 
-| Página | O que faz |
-|---|---|
-| [Agendar pelo Portal](./agendamento) | Passo a passo do agendamento |
-| [Consultar Histórico](./historico) | Ver agendamentos pelo número de telefone |
-| [Avaliar Atendimento](./avaliacao) | Deixar avaliação após o serviço |
+| Página                               | O que faz                                |
+| ------------------------------------ | ---------------------------------------- |
+| [Agendar pelo Portal](./agendamento) | Passo a passo do agendamento             |
+| [Consultar Histórico](./historico)   | Ver agendamentos pelo número de telefone |
+| [Avaliar Atendimento](./avaliacao)   | Deixar avaliação após o serviço          |
 
 ## Vantagens do portal
 
-| Para o tutor | Para o petshop |
-|---|---|
-| Sem download do app PetMob | Mais canais de captação |
-| Sem cadastro necessário | Clientes chegam pelo link |
-| Acessível em qualquer dispositivo | Integrado à mesma agenda |
-| Agendamento em qualquer horário | Notificação instantânea |
+| Para o tutor                      | Para o petshop            |
+| --------------------------------- | ------------------------- |
+| Sem download do app PetMob        | Mais canais de captação   |
+| Sem cadastro necessário           | Clientes chegam pelo link |
+| Acessível em qualquer dispositivo | Integrado à mesma agenda  |
+| Agendamento em qualquer horário   | Notificação instantânea   |

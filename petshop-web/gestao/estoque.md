@@ -17,15 +17,15 @@ Menu lateral → **Gestão → Estoque**
 1. Clique em **"+ Adicionar produto"**
 2. Preencha os dados:
 
-| Campo | Obrigatório | Descrição |
-|---|---|---|
-| **Nome do produto** | ✅ Sim | Ex: Shampoo Anti-pulga 500ml |
-| **Categoria** | ✅ Sim | Higiene, Perfumaria, Acessórios, etc. |
-| **Unidade de medida** | ✅ Sim | Unidade, mL, kg, etc. |
-| **Quantidade atual** | ✅ Sim | Estoque atual |
-| **Estoque mínimo** | ✅ Sim | Abaixo desse valor, o sistema alerta |
-| **Preço de custo** | ❌ Não | Valor pago por unidade |
-| **Fornecedor** | ❌ Não | Nome do fornecedor |
+| Campo                 | Obrigatório | Descrição                             |
+| --------------------- | ----------- | ------------------------------------- |
+| **Nome do produto**   | ✅ Sim      | Ex: Shampoo Anti-pulga 500ml          |
+| **Categoria**         | ✅ Sim      | Higiene, Perfumaria, Acessórios, etc. |
+| **Unidade de medida** | ✅ Sim      | Unidade, mL, kg, etc.                 |
+| **Quantidade atual**  | ✅ Sim      | Estoque atual                         |
+| **Estoque mínimo**    | ✅ Sim      | Abaixo desse valor, o sistema alerta  |
+| **Preço de custo**    | ❌ Não      | Valor pago por unidade                |
+| **Fornecedor**        | ❌ Não      | Nome do fornecedor                    |
 
 3. Clique em **"Salvar"**
 
@@ -54,6 +54,7 @@ Menu lateral → **Gestão → Estoque**
 ## Alertas de estoque baixo
 
 Quando um produto fica **abaixo do estoque mínimo** definido:
+
 - Um badge de alerta aparece no menu lateral ao lado de "Estoque"
 - Na tela, o produto fica destacado em amarelo/laranja
 - Você recebe uma notificação no painel
@@ -68,12 +69,12 @@ Fique atento aos alertas de estoque para não ser pego de surpresa em dias de al
 
 A tela exibe um resumo do consumo por período:
 
-| Coluna | Descrição |
-|---|---|
-| **Produto** | Nome do produto |
-| **Consumo no período** | Quantidade utilizada |
-| **Custo total** | Custo dos insumos no período |
-| **Estoque atual** | Saldo disponível |
+| Coluna                 | Descrição                    |
+| ---------------------- | ---------------------------- |
+| **Produto**            | Nome do produto              |
+| **Consumo no período** | Quantidade utilizada         |
+| **Custo total**        | Custo dos insumos no período |
+| **Estoque atual**      | Saldo disponível             |
 
 ---
 
