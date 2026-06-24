@@ -23,7 +23,7 @@ Toque em **Perfil → Meus Cartões**
 3. Toque em **"Salvar cartão"**
 
 ::: info Segurança
-Os dados do cartão são processados com criptografia pelo Stripe — uma das plataformas de pagamento mais seguras do mundo. O app **não armazena** o número completo do cartão, apenas os últimos 4 dígitos para identificação.
+Os dados do cartão são processados com criptografia pelo Asaas — uma das plataformas de pagamento mais seguras do mundo. O app **não armazena** o número completo do cartão, apenas os últimos 4 dígitos para identificação.
 :::
 
 ---
@@ -70,7 +70,7 @@ Na etapa de confirmação do agendamento (quando o petshop aceita pagamento pelo
 ## Perguntas frequentes
 
 **É seguro salvar o cartão no app?**
-Sim. O processamento é feito pelo Stripe, que é certificado PCI DSS Nível 1 — o mais alto nível de segurança para dados de cartão.
+Sim. O processamento é feito pelo Asaas, que é certificado PCI DSS Nível 1 — o mais alto nível de segurança para dados de cartão.
 
 **Posso pagar sem cartão salvo?**
 Sim. Se preferir não salvar, você pode digitar os dados na hora do pagamento sem salvar para o futuro.

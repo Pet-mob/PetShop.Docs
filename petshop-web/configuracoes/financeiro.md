@@ -56,7 +56,7 @@ Para **alterar o cartão**:
 O novo cartão será usado nas próximas cobranças.
 
 ::: info
-Os dados do cartão são processados com segurança pela plataforma de pagamentos Stripe. O PetMob não armazena os dados completos do seu cartão.
+Os dados do cartão são processados com segurança pela plataforma de pagamentos Asaas. O PetMob não armazena os dados completos do seu cartão.
 :::
 
 ---
