@@ -32,6 +32,11 @@ export default defineConfig({
         link: "/portal/",
         activeMatch: "/portal/",
       },
+      {
+        text: "🧩 Implantação",
+        link: "/implantacao/",
+        activeMatch: "/implantacao/",
+      },
     ],
 
     sidebar: {
@@ -255,6 +260,20 @@ export default defineConfig({
             { text: "Agendar pelo Portal", link: "/portal/agendamento" },
             { text: "Consultar Histórico", link: "/portal/historico" },
             { text: "Avaliar Atendimento", link: "/portal/avaliacao" },
+          ],
+        },
+      ],
+
+      "/implantacao/": [
+        {
+          text: "🧩 Implantação (Interno)",
+          collapsed: false,
+          items: [
+            { text: "Visão Geral", link: "/implantacao/" },
+            {
+              text: "Nova Funcionalidade/Tela",
+              link: "/implantacao/nova-funcionalidade",
+            },
           ],
         },
       ],
